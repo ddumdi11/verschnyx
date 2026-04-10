@@ -252,8 +252,14 @@ def query_mercury(prompt: str, system: str = "", max_tokens: int = 2048) -> str:
             temperature=0.8,
         )
         # Patch v1.2: Null-Safety (Mercury kann None statt Content liefern)
+        # Patch v1.3: Leere Antworten -> Fallback (nicht still schlucken)
         content = response.choices[0].message.content
-        return content if content is not None else ""
+        if not content or not content.strip():
+            print("[warn] Mercury: Leere Antwort, Fallback zu Sonnet...")
+            if claude_client:
+                return query_claude(prompt, system, max_tokens)
+            return query_free(prompt, system, max_tokens)
+        return content
     except Exception as e:
         print(f"[warn] Mercury-Fehler: {e}")
         if claude_client:
@@ -860,11 +866,23 @@ def gruebeln(minuten: int = 2):
     end_time = time.time() + (minuten * 60)
     cycle = 0
 
+    # Patch v1.3: Zyklusdauer an Gesamtdauer anpassen
+    # Kurze Sessions: oefter reflektieren, lange: seltener (spart API-Kosten)
+    if minuten <= 5:
+        pause_sek = 60        # 1 Minute Pause
+    elif minuten <= 30:
+        pause_sek = 180       # 3 Minuten Pause
+    else:
+        pause_sek = 300       # 5 Minuten Pause
+
+    max_cycles = max(1, int((minuten * 60) / pause_sek))
+    print(f"[gruebeln] ~{max_cycles} Zyklen geplant (alle {pause_sek//60} min)")
+
     try:
         while time.time() < end_time and _gruebeln_active:
             cycle += 1
             remaining = int((end_time - time.time()) / 60)
-            print(f"[gruebeln] Zyklus {cycle} (noch ~{remaining} min)...")
+            print(f"\n[gruebeln] Zyklus {cycle} (noch ~{remaining} min)...")
 
             # --- Phase 1: Widerspruchs-Check ---
             _gruebel_widerspruch_check()
@@ -884,8 +902,8 @@ def gruebeln(minuten: int = 2):
             if time.time() >= end_time or not _gruebeln_active:
                 break
 
-            # Pause zwischen Zyklen (30 Sekunden)
-            for _ in range(30):
+            # Pause zwischen Zyklen (angepasst an Sessiondauer)
+            for _ in range(pause_sek):
                 if time.time() >= end_time or not _gruebeln_active:
                     break
                 time.sleep(1)
@@ -955,8 +973,14 @@ def _gruebel_widerspruch_check():
     )
 
     try:
-        # Patch v1.1: Widerspruchs-Check -> Mercury (Tier 1, Routine)
-        result = query_mercury(prompt, max_tokens=500)
+        # Patch v1.3: Widerspruchs-Check -> Sonnet (Tier 2, Analyse)
+        # Mercury (Tier 1) liefert konsistent leere Antworten fuer diese
+        # analytische Aufgabe. Sonnet ist das richtige Modell hierfuer.
+        # Fallback: Mercury -> Free (falls kein Anthropic-Key)
+        if claude_client:
+            result = query_claude(prompt, max_tokens=500)
+        else:
+            result = query_mercury(prompt, max_tokens=500)
         # Patch v1.2.1: Leere/zu kurze Antworten sind kein Widerspruch
         if not result or len(result.strip()) < 20:
             print("[gruebeln] Widerspruchs-Check: Keine verwertbare Antwort (uebersprungen)")
@@ -964,6 +988,8 @@ def _gruebel_widerspruch_check():
         if "KEINE WIDERSPRUECHE" not in result.upper():
             print(f"[gruebeln] Widerspruch gefunden!")
             _write_correction(result)
+        else:
+            print("[gruebeln] Widerspruchs-Check: Alles stimmig")
     except Exception as e:
         print(f"[gruebeln] Widerspruchs-Check Fehler: {e}")
 
