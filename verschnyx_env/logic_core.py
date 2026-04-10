@@ -144,11 +144,18 @@ def load_system_prompt() -> str:
 
 
 def _load_pending_corrections() -> str:
-    """Liest corrections.md und gibt den Inhalt zurueck."""
+    """Liest corrections.md und gibt maximal die letzten MAX_ACTIVE_CORRECTIONS zurueck."""
     if CORRECTIONS_FILE.exists():
         content = CORRECTIONS_FILE.read_text(encoding="utf-8").strip()
-        if content:
-            return content
+        if not content:
+            return ""
+        # Safety: Selbst wenn Rotation nicht lief, nur die neuesten laden
+        parts = re.split(r"\n(?=### \d{4}-\d{2}-\d{2})", content)
+        entries = parts[1:] if len(parts) > 1 else []
+        if len(entries) > MAX_ACTIVE_CORRECTIONS:
+            entries = entries[-MAX_ACTIVE_CORRECTIONS:]
+        header = parts[0] if parts else ""
+        return header.rstrip("\n") + "\n" + "\n".join(entries)
     return ""
 
 
@@ -701,8 +708,10 @@ def write_tagebuch(entry: str):
     print(f"[tagebuch] Neuer Eintrag: {len(entry)} Zeichen")
 
 
+MAX_ACTIVE_CORRECTIONS = 20  # Nur die letzten 20 im System-Prompt
+
 def _write_correction(correction: str):
-    """Schreibt eine Selbstkorrektur in corrections.md."""
+    """Schreibt eine Selbstkorrektur in corrections.md und rotiert bei Bedarf."""
     # Patch v1.2.1: Defense-in-depth -- leere Korrekturen nicht schreiben
     if not correction or len(correction.strip()) < 10:
         print(f"[korrektur] Leere Korrektur uebersprungen ({len(correction or '')} Zeichen)")
@@ -718,6 +727,55 @@ def _write_correction(correction: str):
 
     CORRECTIONS_FILE.write_text(existing + entry, encoding="utf-8")
     print(f"[korrektur] Neue Selbstkorrektur: {len(correction)} Zeichen")
+
+    # Rotation: Aeltere Korrekturen archivieren
+    _rotate_corrections()
+
+
+def _rotate_corrections():
+    """
+    Haelt corrections.md auf max MAX_ACTIVE_CORRECTIONS Eintraege.
+    Aeltere werden in memory/archive/corrections_archive.md verschoben.
+    """
+    if not CORRECTIONS_FILE.exists():
+        return
+
+    content = CORRECTIONS_FILE.read_text(encoding="utf-8")
+    # Korrekturen anhand der ### Timestamps aufsplitten
+    parts = re.split(r"\n(?=### \d{4}-\d{2}-\d{2})", content)
+
+    # Erster Teil ist der Header (# Selbstkorrekturen ...)
+    header = parts[0] if parts else "# Selbstkorrekturen von Verschnyx Erknyxowitsch\n"
+    entries = parts[1:] if len(parts) > 1 else []
+
+    if len(entries) <= MAX_ACTIVE_CORRECTIONS:
+        return  # Noch genug Platz
+
+    # Aufteilen: alte archivieren, neue behalten
+    to_archive = entries[:-MAX_ACTIVE_CORRECTIONS]
+    to_keep = entries[-MAX_ACTIVE_CORRECTIONS:]
+
+    archived_count = len(to_archive)
+
+    # Archiv-Datei (append)
+    archive_dir = MEMORY_DIR / "archive"
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    archive_file = archive_dir / "corrections_archive.md"
+
+    if archive_file.exists():
+        existing_archive = archive_file.read_text(encoding="utf-8")
+    else:
+        existing_archive = "# Archivierte Selbstkorrekturen\n"
+
+    archive_addition = "\n".join(to_archive)
+    archive_file.write_text(existing_archive + "\n" + archive_addition, encoding="utf-8")
+
+    # Aktive Datei auf die neuesten kuerzen
+    active_content = header.rstrip("\n") + "\n" + "\n".join(to_keep)
+    CORRECTIONS_FILE.write_text(active_content, encoding="utf-8")
+
+    print(f"[korrektur] Rotation: {archived_count} alte Korrekturen archiviert, "
+          f"{len(to_keep)} aktive behalten")
 
 
 def run_identity_check():
