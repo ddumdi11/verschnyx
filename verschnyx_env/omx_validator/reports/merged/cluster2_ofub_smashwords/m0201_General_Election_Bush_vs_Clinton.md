@@ -1,0 +1,11 @@
+---
+title: "General Election: Bush vs. Clinton"
+original_title_in_source: "General Election: Bush vs. Clinton"
+source_file: OffeneFragenUnfertigeBilder_Vorarbeit.md
+word_count: 50
+quality_score: 2.25
+---
+
+# General Election: Bush vs. Clinton
+
+></a>General Election: Bush vs. Clinton</h3><table><tbody><tr><th><p>Poll</p></th><th><p>Date</p></th><th><p>Sample</p></th><th><p>MoE</p></th><th><p>Clinton (D)</p></th><th><p>Bush (R)</p></th><th><p>Spread</p></th></tr><tr><th><p>RCP Average</p></th><th><p>9/17 - 11/4</p></th><th><p>--</p></th><th><p>--</p></th><th><p>44.6</p></th><th><p>43.6</p></th><th><p>Clinton +1.0</p></th></tr><tr><th><p><a href="http://www.mcclatchydc.com/news/politics-government/election/article43727049.ece/BINARY/Poll%20details">McClatchy/Marist</a></p></th><th><p>10/29 - 11/4</p></th><th><p>541 RV</p></th><th><p>4.2</p></th><th><p>52</p></th><th><p>44</p></th><th><p>Clinton +8</p></th></tr><tr><th><p><a href="http://msnbcmedia.msn.com/i/MSNBC/Sections/A_Politics/15463%20NBCWSJ%20Late%20October%20Poll%20%284%29.pdf">NBC News/Wall St. Jrnl</a></p></th><th><p>10/25 - 10/29</p></th><th><p>847 RV</p></th><th><p>3.4</p></th><th><p>47</p></th><th><p>43</p></th><th><p>Clinton +4</p></th></tr><tr><th><p><a href="http://www.foxnews.com/politics/interactive/2015/10/13/fox-news-poll-biden-more-electable-than-clinton/">FOX News</a></p></th><th><p>10/10 - 10/12</p></th><th><p>1004 RV</p></th><th><p>3.0</p></th><th><p>40</p></th><th><p>44</p></th><th><p>Bush +4</p></th></tr><tr><th><p><a href="http://www.publicpolicypolling.com/pdf/2015/PPP_Release_NationalGOP_100615.pdf">PPP (D)</a></p></th><th><p>10/1 - 10/4</p></th><th><p>1338 RV</p></th><th><p>2.7</p></th><th><p>42</p></th><th><p>43</p></th><th><p>Bush +1</p></th></tr><tr><th><p><a href="http://www.quinnipiac.edu/images/polling/us/us09242015_ui47mfb.pdf">Quinnipiac</a></p></th><th><p>9/17 - 9/21</p></th><th><p>1574 RV</p></th><th><p>2.5</p></th><th><p>42</p></th><th><p>44</p></th><th><p>Bush +2</p></th></tr></tbody></table><p><a href="http://www.realclearpolitics.com/epolls/2016/president/us/general_election_bush_vs_clinton-3827.html">All General Election: Bush vs. Clinton Polling Data</a></p><p><a id="rcp_avg"></a></p><h3>

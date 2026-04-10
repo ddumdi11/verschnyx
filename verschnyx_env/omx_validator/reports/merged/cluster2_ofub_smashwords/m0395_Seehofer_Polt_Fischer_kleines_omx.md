@@ -1,0 +1,11 @@
+---
+title: "Seehofer & Polt & Fischer | (kleines) omx"
+original_title_in_source: "Seehofer & Polt & Fischer | (kleines) omx"
+source_file: OffeneFragenUnfertigeBilder_Vorarbeit.md
+word_count: 146
+quality_score: 2.73
+---
+
+# Seehofer & Polt & Fischer | (kleines) omx
+
+></a><a id="sites_page_title_43"></a>Seehofer & Polt & Fischer | (kleines) omx</h3><p><a id="sites_canvas_main_173"></a></p><p><a id="Weil_ihn_anscheinend_niemand___a"></a></p><table><tbody><tr><th><p><br></p><p><br></p><p>Weil ihn anscheinend niemand - außer in Bayern - so wirklich versteht</p><p>(und noch aus diversen anderen, kleinen Gründen)</p><p>ist der Mann immerhin ein</p><p>kleines omx</p><p>wert<br>.<br></p><p>Weil er das aber im Vergleich zu anderen großen Bayern</p><p>sicherlich nicht mehr verdient hat,</p><p>muß er es sich hier mit</p><p>Gerhard Polt<br>&</p><p>Helmut Fischer</p><p>teilen - ich denke,</p><p>das ist angemessen.<br></p><p>Alle anderen, hier nicht</p><p>Erwähnung finden, seien</p><p>hiermit (teils posthum) gegrüßt!</p><p>Valentin, Spider Murphy Gang...<br></p><p>nicht zuletzt alle bayrischen Mädels<br></p><p>(die guten oso - lalalalalall) ..................</p><p><br></p><p><br>20-Jahre-Déjà-vuTagesschau-Video beweist, dass Seehofer aus der Flüchtlingskrise nichts gelernt hat<br><br><br>"Wir sind nicht das Sozialamt für den Balkan": Diesen Standpunkt vertritt der bayerische Ministerpräsident Horst Seehofer 2015. Eine alte Tagesschau-Sendung macht deutlich, dass sich an der Einstellung des CSU-Vorsitzenden in 20 Jahren nichts geändert hat.<br><br><br>Auch im Video: Öffentliche Schelte: Horst Seehofer kritisiert Angela Merkel mit scharfen Worten<br><br><br><br><br><a href="http://www.focus.de/politik/videos/streit-um-fluechtlings-begrenzung-oeffentliche-schelte-horst-seehofer-kritisert-angela-merkel-mit-scharfen-worten_id_5106627.html"><br></a>FOCUS Online Öffentliche Schelte: Horst Seehofer kritisiert Angela Merkel mit scharfen Worten</p><p><br><a href="http://www.focus.de/videos/20-jahre-deja-vu-tagesschau-video-beweist-warum-wir-in-der-fluechtlingskrise-nichts-gelernt-haben_id_5107357.html">http://www.focus.de/videos/20-jahre-deja-vu-tagesschau-video-beweist-warum-wir-in-der-fluechtlingskrise-nichts-gelernt-haben_id_5107357.html<br><br></a></p><p><br><br></p><h2>

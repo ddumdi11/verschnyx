@@ -1,0 +1,17 @@
+---
+title: "Beleidigung-Mobbing|omx"
+author: "zarko maroli"
+source: ebook
+---
+
+# Beleidigung-Mobbing|omx
+
+Jemand hat beim Justizminister angefragt, der solle doch bitte mal prüfen, ob die Strafen soundso hart genug/Gesetze streng genug seien bei soundso Beleidigung im I-Net und soundso wegen Mobbing - ich habe das nur sehr peripher mitgehört (auch nur halb), daher "soundso". Ohne denjenigen (oder war es eine diejenige?) beleidigen zu wollen, kommt mir das im Nachhinein iwi so vor, wie wenn ein Exhibitionist um die Ecke kommt, den Mantel zuhält, aber droht sich zu entblößen, wenn sich hier jetzt einer/eine nackt-seiend sich aufzuhalten beabsichtigt (Nacktschnecken o.Ä. Vertreter, z.B.) oder es bereits tut/getan hat. Kein rischtisch guter Vergleich damit, ganz klar-logo - mir kam das nur in den Sinn & ich fand's unterhaltsam genug, hier loswerden zu wollen, bevor's wieder im Nirvana des Vergessens (wie alles Unwichtige) verschwinden wird/verschwunden wäre: gemeinsam lacht sich auch besser, btw.! Die Gemeinsamkeit: Es geht in beiden Fällen um das Fertigmachen eines Schwächeren (Großkollektiv gegen Kleinkollektiv, Großkollektiv gegen Individuum) durch einen wesentlich Stärkeren - für was? Mobbing ist nicht besser, aber auch nur graduell schlechter - und per Def. ungerechter [möge die Def. stimmen!]. Allerdings war die Rede - soweit weiß ich es ganz genau - von Mobbing & Beleidigung: Das sind aber zwei ganz getrennte Paar Schuhe, die sollten nicht zusammengeschmissen & gemischt werden! Mobbing geht von einem Kollektiv aus. Beleidigung geht von Einzelpersonen aus. Schon mal zwei grundverschiedene Dinge! (Dass Mobbing von Einzelpersonen gestartet oder angestiftet werden kann, versteht sich - da muss wohl oder übel noch weiter differenziert werden.) Es ist die Frage, ob ein Kollektiv bestraft (oder beschützt) oder ein/eine Einzelner/Einzelne bestraft (oder beschützt) werden soll(t)en. Ferner ist die Frage, inwieweit das konträr der Menschenrechte/Grundrechte auf freie Meinungsäußerung [die ich z.Zt., siehe Türkei!, immer mehr in Bedrohung geraten sehe: Es gab da mal, auch in der Türkei, Selbstverständlichkeiten, die zunehmend ausgehöhlt/unterhöhlt werden - meist, damit es wirtschaftlich besser klappt, so sehe ich das (vlt. falsch, okay - lasse mich immer gerne eines Besseren belehren!).] Dazu kommt noch, dass meiner Erfahrung nach die Leute, die sich am schnellsten (ge-)moppt fühlen(d Show machen) oder beleidigt sind & giftig werden, die sind, die am wenigsten leidensfähig & -aushaltend sind & es auch gewesen sind, die das wenigere Leid hatten rund um einen Beleidigungsfall (oder Mobbing-Vorgebe-/Vorspiel-Fall¹). Das wird sich sicherlich auch ganz anders in Erfahrungen darstellen können - hier meine ich, dass es wichtig ist, zu schauen, zu analysieren & herauszufinden, was & wo die Unterschiede sind, bevor... {Soweit mein heutiger Senf dazu - es wartet Schlaf & noch jede Menge weitere Arbeit(en).} ¹ Von einem ziemlich dreisten Fall war ich mal Halb-Zeuge, szsg..² ² Und in einem anderen Fall habe ich aktiv gegengesteuert, wo ich die Nachtigall wieder mall ...
+
+Updated on 
+Jun 30, 2014
+ by 
+Zarko Maroli
+ (
+Version 6
+)

@@ -1,0 +1,36 @@
+---
+title: "CSU-Parteitag Seehofers Abwehrkampf"
+original_title_in_source: "CSU-Parteitag Seehofers Abwehrkampf"
+source_file: OffeneFragenUnfertigeBilder_Vorarbeit.md
+word_count: 705
+quality_score: 9.38
+---
+
+# CSU-Parteitag Seehofers Abwehrkampf
+
+></a>CSU-Parteitag Seehofers Abwehrkampf</h2><p>CSU-Chef Horst Seehofer ist in einem Abwehrkampf gegen Markus Söder. Angela Merkel hat dabei einen leichten Kollateralschaden erlitten. Gedemütigt wurde sie nicht.</p><p>21.11.2015, von <a href="http://www.faz.net/redaktion/albert-schaeffer-11104187.html">Albert Schäffer</a>, München</p><p>© dpa Gute Mine? Angela Merkel und Horst Seehofer während des CSU-Parteitags</p><p>Es gilt einer Legendenbildung vorzubeugen: Angela Merkel ist auf dem Münchner CSU-Parteitag nicht gedemütigt worden. München ist nicht Merkels Canossa geworden. <a href="http://www.faz.net/aktuell/politik/thema/horst-seehofer">Horst Seehofer</a> blieb schlicht nichts anderes übrig, als der Kanzlerin auf offener Parteitagsbühne zu widersprechen. Natürlich war es für Merkel nicht angenehm, neben Seehofer stehen zu müssen und dessen flüchtlingspolitischer Philippika lauschen zu müssen.</p><p><a href="http://www.faz.net/redaktion/albert-schaeffer-11104187.html">Autor: Albert Schäffer, Politischer Korrespondent in München.</a> Folgen:<a href="https://plus.google.com/100494427208936219817?rel=author"></a></p><p>Eine Demütigung war es aber nicht. Seehofer musste Merkel mit geschlossenem Visier begegnen. Die Stimmung unter der Delegierten - darunter viele Kommunalpolitiker, die tagtäglich dafür schuften, dass die Flüchtlinge in einer Weise versorgt werden, die einem zivilisierten Gemeinwesen würdig ist - war eindeutig. Merkel bemühte sich in München kaum, auf sie zuzugehen. Sie hielt ihre flüchtlingspolitische Standardrede, ohne den gerade von der <a href="http://www.faz.net/aktuell/politik/thema/csu">CSU</a> beschlossenen Leitantrag auf Gemeinsamkeiten abzuklopfen.</p><p>Dort steht Schwarz auf Weiß, dass es nicht einen einzigen Weg in der Flüchtlingspolitik geben kann, sondern nur das Beschreiten vieler Wege helfen kann - nicht anderes sagt die Kanzlerin. Es gibt nur eine Differenz zwischen Merkel und der CSU: Die Obergrenze bei der Flüchtlingsaufnahme, welche die Kanzlerin für ein untaugliches Mittel hält. Hier Merkel nicht Kontra zu geben, wäre ein schwerer, möglicherweise ein politisch letaler Fehler für Seehofer gewesen.</p><p>Mehr zum Thema</p><ul><li><a href="http://www.faz.net/aktuell/politik/inland/csu-parteitag-wahlschlappe-fuer-seehofer-13924329.html">CSU-Parteitag: Wahlschlappe für Seehofer</a></li><li><a href="http://www.faz.net/aktuell/politik/inland/csu-parteitag-schlaege-aus-muenchen-haerten-ab-13923240.html">CSU-Parteitag: Schläge aus München härten ab</a></li><li><a href="http://www.faz.net/aktuell/politik/fluechtlingskrise/kommentar-entscheidend-ist-wer-ins-land-kommt-13923714.html">Kommentar: Entscheidend ist, wer ins Land kommt</a></li></ul><p>87,2 Prozent der Delegiertenstimmen: Das ist kein berauschendes Ergebnis für Seehofer, mit dem er seine voraussichtlich letzte Amtszeit als Vorsitzender antritt. Aber ohne seine öffentlich inszenierte Konfrontation mit Merkel wäre es noch schlechter ausgefallen. Söder sitzt ihm dicht im Nacken; wie dicht, zeigte sich auf dem <a href="http://www.faz.net/aktuell/politik/thema/parteitag">Parteitag</a>, als minutenlanger Beifall aufbrandete, als Seehofer Söders Namen nannte. Und Söder steht für eine noch viel rigoroseren Kurs in der Flüchtlingspolitik als Seehofer.</p><p>Seehofer ist in einem Abwehrkampf gegen Söder. Die Kanzlerin hat dabei einen leichten Kollateralschaden erlitten. Ihn eine Demütigung zu nennen, ist zu weit gegriffen. Merkel ist nur mit der Lebenswirklichkeit konfrontiert worden, die in Bayern, das bei der Flüchtlingsaufnahme die Hauptlast trägt, anders ist als in Berlin.</p><p><a href="http://www.faz.net/aktuell/politik/inland/csu-parteitag-seehofers-abwehrkampf-13924586.html">http://www.faz.net/aktuell/politik/inland/csu-parteitag-seehofers-abwehrkampf-13924586.html<br></a></p><p><br></p><p>Polt<br><br></p><p><br></p><p>Fischer<br><br></p></th></tr></tbody></table><p><a id="sites_canvas_bottom_panel_168"></a></p><p><a id="COMP_page_subpages_167"></a></p><p><a id="sites_attachments_container_167"></a></p><p><a id="page_comments_167"></a></p><p><a id="COMP_page_comments_168"></a></p><p>Comments</p><p><a id="sites_comment_docos_pane_17"></a></p></th></tr></tbody></table></div>
+
+[Sign in](https://www.google.com/a/UniversalLogin?service=jotspot&continue=https://sites.google.com/site/hembelzomx/home/om-x-se/seehofer-kleines-omx)|[Recent Site Activity](#Top_of_section_0236_html)|[Report Abuse](#Top_of_section_0236_html)|[Print Page](#Top_of_section_0236_html)|Powered By [Google Sites](http://sites.google.com)
+
+|     | t   |
+| --- | --- |
+
+Selbsterhöhung | OMX
+
+<br/>
+
+Meine - unwissenschaftliche und vorläufige (omx ist meist vorläufiger Entwurf mit dem Ideal-Ziel Annäherung an das Wirkliche/Reale etc.) - Vorstellung über die Beziehung dreier Begriffe ist wie folgt:
+
+Selbsterhöhung ist der Oberbegriff von Rassismus und Antisemitismus, u.A.  
+<br/>...
+
+(Weiteres folgt!)
+
+Untergeordnete Seiten (2): [Antisemitismus | omx](#Top_of_section_0236_html) [Rassismus | omx](#Top_of_section_0236_html)
+
+|     | t   |
+| --- | --- |
+
+Selbstgespräche | omx
+
+<div class="joplin-table-wrapper"><table><tbody><tr><th><p><a id="sites_canvas_175"></a></p><p><a id="sites_canvas_main_175"></a></p><p><a id="Ein_sehr_guter_Artikel_zum_Einst_1"></a></p><table><tbody><tr><th><p>Ein sehr guter Artikel zum Einstieg:</p><p><br></p><p>OSCAR WILDE gab einmal zu: „Es ist eines meiner größten Vergnügen, oft und lange mit mir Gespräche zu führen." Zugegeben, derlei Selbstgespräche setzen einen klugen Gesprächspartner voraus (was in seinem Fall gegeben war). Recht hatte er trotzdem: Der Dialog mit uns selbst kann enorm dabei helfen, Stress abzubauen, Leistungen zu steigern und originellere Lösungen zu finden.</p><p>Ein Beispiel: Die Psychologen Dietrich Dörner von der Universität Bamberg und Ralph Reimann von der Universität Wien ließen einmal mehrere Probanden eine Konstruktionsaufgabe lösen. Und siehe da: Wer während der Bearbeitungszeit mit sich selbst sprach, erzielte am Ende die besseren Ergebnisse. Allerdings nur, wenn diese Selbstdialoge konstruktiv geführt wurden, wie etwa durch Fragen vom Typ: „Wo kommt das wohl hin?", „Wie befestige ich das jetzt am besten?"</p><p>"96 Prozent der Erwachsenen führen regelmäßig Gespräche mit sich selbst."</p><p>Die gute Nachricht ist: Wir alle führen immer wieder Selbstgespräche. US-Forscher haben einmal hochgerechnet, dass 96 Prozent der Erwachsenen regelmäßig mit sich selbst kommunizieren. Natürlich meist nur dann, wenn sie sich unbeobachtet oder ungehört fühlen: im Auto zum Beispiel, unter der Dusche, auf dem Klo.</p><p>Bei Kindern ist das anders: Zwischen zwei und vier Jahren reden sie regelmäßig und völlig ungeniert mit sich selbst - manche leise, manche laut. Erst mit zunehmendem Alter verlagert sich der hörbare Autolog immer mehr nach innen und wird schließlich fast nur noch gedacht. In der U-Bahn oder im Flugzeug ist das vielleicht auch besser so.</p><h2>

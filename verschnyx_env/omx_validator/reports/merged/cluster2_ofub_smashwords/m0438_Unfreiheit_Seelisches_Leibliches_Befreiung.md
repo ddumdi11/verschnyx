@@ -1,0 +1,11 @@
+---
+title: "Unfreiheit & Seelisches & Leibliches & Befreiung"
+original_title_in_source: "Unfreiheit & Seelisches & Leibliches & Befreiung | omx"
+source_file: OffeneFragenUnfertigeBilder_Vorarbeit.md
+word_count: 195
+quality_score: 2.98
+---
+
+# Unfreiheit & Seelisches & Leibliches & Befreiung
+
+></a><a id="sites_page_title_51"></a>Unfreiheit & Seelisches & Leibliches & Befreiung | omx</h3><p><a id="sites_canvas_main_194"></a></p><p><a id="Ein_reines_Inter_om_x___was_in_m"></a></p><table><tbody><tr><th><p><br><br></p><p><br><br></p><p>Ein reines Inter-om(x), was in mehrere "echte" omxse bald "zerfällt".<br></p><p>Hier geht es um etwas Trivial-Ominöses,</p><p>sprich: etwas, was (nur(?)) ich bis jetzt nicht ganz verstanden habe,</p><p>ein Komplex¹¹, in dem eine (zwei, drei und vier...) {Neben-}Aussage(n) vorkommt (vorkommen),<br>die mir wichtig erscheint (erscheinen).<br><br><br><a href="https://drive.google.com/file/d/0B30871ANlQ1ES3NGSHNmZWcxdW8/view?usp=sharing">https://drive.google.com/file/d/0B30871ANlQ1ES3NGSHNmZWcxdW8/view?usp=sharing<br></a></p><p>Aus Kierkegaard, WDR3, Feature-Hörspiel vom 08.11.2015.</p><p>Zitate daraus:<br></p><p>"Das ist das Befreiendste. Also, wenn ich mich verbergen muß, wenn ich für mich wichtige Dinge,<br></p><p>die mich angehen, nicht mitteilen kann, bin ich unfrei. Wenn ich's auch sagen kann, wie mir wirklich ist,</p><p>auch dort, wo man sich ein bisschen schämt oder wo's peinlich ist, wo man fürchten muß "Na, hoffentlich werd'</p><p>ich da nicht ausgelacht...". Wenn das aber möglich ist, dann erlebe ich Befreiung. Weil ich mich nicht mehr verstellen muß, muß keine Maske aufsetzen."</p><p><br>"Wann bin ich wirklich ich selbst, wann spiele ich mich nur,<br>wann spiele ich nur, was die Anderen von mir erwarten?"<br></p><p>"Wann habe ich eine Haltung gefunden, die mich trägt?<br>Die zu meinem Selbstverständnis gehört<br>- und zu den Rollen, in denen ich mich verwirklichen will?</p><p>Beruflich. Und als Mutter. Als Tochter. Als Freundin."</p><p><br><br><br><br><br></p><p>¹¹ Oder einfacher: Eine Menge von offenbar eng zusammengehörigen Aussagen,<br>mit möglicherweise einer Kernaussage, die extrahiert werden kann/könnte<br>oso...<br>.</p><h3>

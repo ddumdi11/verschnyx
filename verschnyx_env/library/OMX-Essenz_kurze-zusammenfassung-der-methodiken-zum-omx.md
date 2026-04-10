@@ -1,0 +1,17 @@
+---
+title: "Kurze Zusammenfassung der Methodik(en) zum OMX"
+author: "zarko maroli"
+source: ebook
+---
+
+# Kurze Zusammenfassung der Methodik(en) zum OMX
+
+#### Metapher & Metaphorisches Eigentlich gar nicht hierher gehörig, jedenfalls nicht so richtig & nicht so wirklich, die: Metapher (das sprachliche Bild zur - meist - Verdeutlichung von etwas, für das normalerweise viel mehr Wort & Buchstabe zum Einsatz gebracht werden müsste; sprachliche Rationalisierungsarbeit). Dieses Ding gehört eigentlich nicht hier in den Abschnitt, weil es notwendigerweise mit zum Behandelten, zum gesamten Leben (wo Kommuniktation stattfindet) nativ dazu gehörig ist - allerdings damit auch - wieder notwendigerweise - mit in den Methodiken, die hier Anwendung finden oder finden sollen¹, drinne iss (muss ich es wirklich ernsthafter, sog. seriöser ausformulieren - hier nicht, oder?). ¹ Je nach Gelungenheit - bin ja blutiger Anfänger. __________________________________________________________________________________________________________________________________________________________
+
+Updated on 
+Apr 30, 2014
+ by 
+Zarko Maroli
+ (
+Version 4
+)

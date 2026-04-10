@@ -1,0 +1,17 @@
+---
+title: "Organspenden|omx"
+author: "zarko maroli"
+source: ebook
+---
+
+# Organspenden|omx
+
+Na wunderbar! Da scheint doch die Erfolgsstory weiter zu laufen, erbarmungslos weiter und immer weiter. Grade fiel mir ein, die Sache mit den Organspenden und so... Ich muss ein bisschen weiter ausholen. Los ging die Überlegung eigentlich mit dem was ich vor ein paar Wochen im I-Net gesehen habe. Da wurde – mal wieder – eins dieser todsicheren Systeme promotet, bei dem irgendwie mit Wertpapieren oder Anleihen (oder was weiß ich was es da so alles gibt) Geld gescheffelt wird. [Gehen wir einmal großzügig davon aus, dass die Beteiligten in dem Spiel tatsächlich eine reelle Chance auf den versprochenen Gewinn haben.] Einer der Moderatoren des Forums – es handelte sich um ein Mitglieder-Forum – redete einem ins Gewissen, besser gesagt, bemühte sich darum das entsprechende Gewissen, offensichtlich durch Zweifel infiziert (ich habe es selbst nicht gelesen, keine Ahnung), taub zu reden: „Du tust nichts Schlimmes!“, er solle sich doch von solchen Gedankenanwandlungen freimachen [sinngemäß]. Ich habe ein bisschen weitergedacht, ein paar Satzfetzen hingen mir noch im Gedankenwerk rum – des Moderators und aus anderen Beiträgen, die ich kurz überflogen hatte –, und ich landete schnell bei einem „Besser die als Leute, die sich gar keine Gedanken darüber machen“–Schluss, denn das war mir durchaus sympathisch, was da so zu lesen war. Natürlich relativ trockener theoretischer Erfahrungsaustausch, das Inhaltliche betreffend, aber der Umgang untereinander und miteinander – Ton, Melodie und so – war da so, wie man sich das unter – vielleicht nicht ganz so guten – Freunden wünscht. Halt von gegenseitigem Respekt geprägt und immer bestrebt, den weniger Guten zu besseren Resultaten zu verhelfen [Die Melodie war hier der Streber {Zwinkerndes Smiley} .]. Besser die als so skrupellose Geld-Haie. Lieber die, weil die waren auf jeden Fall besser, klare Sache. Jetzt aber mal angenommen – zunächst mal nur rein theoretisch –, so würden sie alle denken, alle die, die bei solchen Spielen beteiligt sind. Und denken wir uns mal wirklich alles, was auf der Börse iwi mitmischt [Und das Wörtchen „Börse“ als Synonym für alle großen Geldgeschäfte, die iwi über Papiere, ergo über's I-Net, Realtime-Trade, abgewickelt werden oder abgewickelt werden können.], mit in den Salat. Und dann denken wir uns alle Beteiligten als solche wie die eben beschriebenen, grob skizziert halt: und zwar so Muttersöhnchen und solche, die eben flügge geworden sind (die Papa-Toechterchen, Veteranen und Veteraninnen zur weiteren Vereinfachung plump ausgelassen, sowie natürlich alle weiteren denkbaren möglichen Mitwirker). Und die denken: Besser wir als die Schlechten! (Denn wir investieren das Kapital wenigstens wieder gewissenhaft bzw. bringen es wieder unter die Leute, und zwar so wie sich gehört!) [Mein Gott, das ist wieder ein Akt mit der Spracherkennung – so macht das keinen Spaß! Es liegt aber nicht an der Spracherkennung, sondern daran, dass zwei meiner drei USB-Anschlüsse am Notebook mittlerweile kaputt sind, und der dritte verbleibende offensichtlich nun auch einen Schuss weg hat: ein Dauersirrton unterwandert meine Lauteinsbrechungen, nun ja, von "überlagert" zu sprechen wäre auch nicht übertrieben. Ich breche das jetzt hier ab, nachdem ich nicht mal mehr das "p" in Lauteinsprechungen hinbekommen konnte und mich das hier jetzt allmählich zu sehr aufregt.] Close
+
+Updated on 
+Apr 26, 2014
+ by 
+Zarko Maroli
+ (
+Version 5
+)

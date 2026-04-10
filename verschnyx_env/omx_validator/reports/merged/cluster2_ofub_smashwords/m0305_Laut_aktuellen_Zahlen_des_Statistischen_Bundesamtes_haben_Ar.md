@@ -1,0 +1,11 @@
+---
+title: "Laut aktuellen Zahlen des Statistischen Bundesamtes haben Arbeitslose in Deutschland immer massivere Geldsorgen. Jeder dritte Erwerbslose könne sich d"
+original_title_in_source: "Laut aktuellen Zahlen des Statistischen Bundesamtes haben Arbeitslose in Deutschland immer massivere Geldsorgen. Jeder dritte Erwerbslose könne sich d"
+source_file: OffeneFragenUnfertigeBilder_Vorarbeit.md
+word_count: 198
+quality_score: 2.99
+---
+
+# Laut aktuellen Zahlen des Statistischen Bundesamtes haben Arbeitslose in Deutschland immer massivere Geldsorgen. Jeder dritte Erwerbslose könne sich d
+
+></a>Laut aktuellen Zahlen des Statistischen Bundesamtes haben Arbeitslose in Deutschland immer massivere Geldsorgen.<br><br>Jeder dritte Erwerbslose könne sich der Erhebung zufolge jeden zweiten Tag keine<br>vollwertige Mahlzeit mehr leisten. 18,4 Prozent gaben zudem an, auch nicht mehr richtig heizen zu können, weil sie sich das nicht mehr finanziell leisten können. Die Zahl stieg innerhalb eines Jahres um 48.000 auf 1,07 Millionen Menschen.<br><br>"Die Absicherung im Fall von Erwerbslosigkeit wird immer brüchiger und schwächer", kritisierte die linke Arbeitsmarktpolitikerin Sabine Zimmermann, die das immer neue "Kleinrechnen des Existenzminimums" als Skandal bezeichnet.</p><p><br><a href="http://www.shortnews.de/id/1179331/studie-immer-mehr-arbeitslose-koennen-sich-essen-nicht-mehr-leisten">http://www.shortnews.de/id/1179331/studie-immer-mehr-arbeitslose-koennen-sich-essen-nicht-mehr-leisten<br><br><br></a></p><p>Heute (10.09.2015) ist der Welttag der Suizidprävention. 2003 wurde er zum ersten Mal von der Weltgesundheitsorganisation WHO ausgerufen. Die Deutschen könnten fragen: Was geht uns das an? Denn hier gehen seit nunmehr fast vier Jahrzehnten immer weniger Menschen freiwillig in den Tod. Doch diesem positiven Trend entgegengesetzt, steigt die Selbstmordquote der Älteren: Die Selbsttötungsrate ist bei den über 60-jährigen am höchsten, obwohl diese Altersgruppe nur 27 Prozent der Gesamtbevölkerung ausmacht. Als Ursache dafür geben die meisten Suizidforscher "Depression" an. Aber was sind die Ursachen für die Depression? Vor wenigen Tagen meldeten die Sozialverbände, dass immer weniger Rentner von ihrer Rente leben können und auf staatliche Grundsicherung angewiesen sind.</p><p>Ein Zwischenruf von Peter Meisenberg</p><h2>

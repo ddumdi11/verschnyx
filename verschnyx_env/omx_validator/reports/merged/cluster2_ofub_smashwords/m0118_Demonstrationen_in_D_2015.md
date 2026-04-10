@@ -1,0 +1,11 @@
+---
+title: "Demonstrationen in D 2015"
+original_title_in_source: "Demonstrationen in D 2015 | omx"
+source_file: OffeneFragenUnfertigeBilder_Vorarbeit.md
+word_count: 269
+quality_score: 3.34
+---
+
+# Demonstrationen in D 2015
+
+></a><a id="sites_page_title_17"></a>Demonstrationen in D 2015 | omx</h3><p><a id="sites_canvas_main_40"></a></p><p><a id="5000_Menschen_waren_der_Grund__w"></a></p><table><tbody><tr><th><p>5000 Menschen waren der Grund, warum ich mir die Wegbeschreibung zur AfD-Demo nicht ausgedruckt habe. Diese 5000 waren von der AfD angekündigt, und 5000 Menschen übersieht man schlecht. Als ich um 13 Uhr aus der Berliner U-Bahn-Station Klosterstraße komme, sehe ich allerdings nur eine gut gelaunte Frau mit Ver.di-Plakat und laufe stattdessen ihr hinterher, irgendwo gehen die Ver.di-Leute ja immer demonstrieren. Tatsächlich führt sie mich bis zum Roten Rathaus, an dem die <a id="a__art_link"></a><a href="http://www.welt.de/themen/afd">AfD</a>-Demo mit dem Thema "Merkel muss weg" an diesem Tag in Berlin stattfindet.</p><p>Sehr viele Polizisten stehen um einen sehr großen Platz herum, auf dem sehr wenige Menschen verschüchtert ihre Deutschland-Fähnchen im Wind schwenken. Einige Demonstrierende verteilen Blumen. Sehr laut läuft klassische Musik. Der Platz sieht aus wie eine Demo der Grauen Panther, der ausgestorbenen Seniorenpartei. Um ganz sicher zu sein, ob ich wirklich auf der richtigen Demonstration bin, frage ich einen dünnen Mann mit Luftballon, wofür er hier demonstriere. Er sagt, für die Erhaltung des deutschen Kulturguts. Ich frage den Mann, welcher Komponist da gerade gespielt wird. Der Mann sagt, er habe keine Ahnung.</p><p><a id="a__art_picture"></a></p><p>Foto: AFP In Berlin demonstrieren Anhänger der AfD gegen Islamisierung</p><p>Dann sagt der Mann: "Merkel muss weg", und sieht mich an wie ein alter Schäferhund. Ich begreife immer noch nicht ganz, um was es denn hier geht. Manche halten Schilder, auf denen "Merkel muss weg" steht. Manche halten Schilder, auf denen "Keine Wurst ist illegal - Schweinefleisch überall" steht. Vielleicht lag die Ver.di-Frau doch ganz richtig, vielleicht demonstriert hier gerade die Gewerkschaft deutscher Metzger. Zwischen den beiden Forderungen liegt doch eine ganze Menge Interpretationsraum.</p><h2>

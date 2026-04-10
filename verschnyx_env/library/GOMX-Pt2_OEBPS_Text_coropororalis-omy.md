@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+author: "zarko maroli"
+source: ebook
+---
+
+| t
+ | t
+
+### Coropororalis|omy Hier wer'n se verglücklicht! Ddodda >>> !!! Hier !!! Schade, dass die letzten Einträge zu Deutsch von 2010 sind - 4 Jahre Verlust (okay - läßt sich vlt. relativ leicht nachholen, evtl. liegt's auch an interner Verwendung, die Priorität/Vorzugsrecht (wie war noch gleich der lat. Ausdruck?) hat, ansonsten: hier wird wieder mal an der völlig falschen Stelle gespart!¹ Von dort/da stammt (Vielen Dank! [Ich hoffe, ich darf... - wenn nicht, Kommentar genügt & ich lösche es wieder!]): ¹ W(h)o nicht in Forschung & Wissen investiert, verdient aus dem Rennen des Lebens in der nächsten Kurve 'rauszufliegen oder genommen zu werden (Disquali) ! | Hier wer'n se verglücklicht! Ddodda >>> !!! Hier !!! Schade, dass die letzten Einträge zu Deutsch von 2010 sind - 4 Jahre Verlust (okay - läßt sich vlt. relativ leicht nachholen, evtl. liegt's auch an interner Verwendung, die Priorität/Vorzugsrecht (wie war noch gleich der lat. Ausdruck?) hat, ansonsten: hier wird wieder mal an der völlig falschen Stelle gespart!¹ Von dort/da stammt (Vielen Dank! [Ich hoffe, ich darf... - wenn nicht, Kommentar genügt & ich lösche es wieder!]): ¹ W(h)o nicht in Forschung & Wissen investiert, verdient aus dem Rennen des Lebens in der nächsten Kurve 'rauszufliegen oder genommen zu werden (Disquali) !
+Hier wer'n se verglücklicht! Ddodda >>> !!! Hier !!! Schade, dass die letzten Einträge zu Deutsch von 2010 sind - 4 Jahre Verlust (okay - läßt sich vlt. relativ leicht nachholen, evtl. liegt's auch an interner Verwendung, die Priorität/Vorzugsrecht (wie war noch gleich der lat. Ausdruck?) hat, ansonsten: hier wird wieder mal an der völlig falschen Stelle gespart!¹ Von dort/da stammt (Vielen Dank! [Ich hoffe, ich darf... - wenn nicht, Kommentar genügt & ich lösche es wieder!]): ¹ W(h)o nicht in Forschung & Wissen investiert, verdient aus dem Rennen des Lebens in der nächsten Kurve 'rauszufliegen oder genommen zu werden (Disquali) !

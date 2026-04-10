@@ -1,0 +1,17 @@
+---
+title: "EU-Klage|omx"
+author: "zarko maroli"
+source: ebook
+---
+
+# EU-Klage|omx
+
+Wenn alles nix hilft, dann bleibt ja wohl nur noch dies: http://de.wikipedia.org/wiki/Europ%C3%A4ischer_Gerichtshof_f%C3%BCr_Menschenrechte Wird derzeit - dank tatkräftiger Mithilfe alter Bekannter geht's auch gut voran¹¹ - geprüft. Zwei Jahre Drangsaliererei* sind (mehr als) genug. Mit meiner Übergeduld unterstütze ich am Ende auch noch solche Nahe-Kriminelle (so kommt es mir dummerweise immer wieder & immer weiter vor, leider: dass die daran Beteiligten sich auf anderer Menschen Kosten "legal" Gesetzesschwächen für ihre eigenen ganz egoistischen, nicht altruistischen, persönlichen Vorteile zunutze machen). Wer nach dieser langen Zeit noch mit weiterer Engelsgeduld & Klagloshinnahme meinerseits, sowie weiters mit der Möglichkeit, dass ich noch bereit bin, irgendwelche faulen Kompromisse einzugehen rechnet, der muss mich offenbar für einen Vollidioten halten - und das grenzt dann schon an Beleidigung (und würde wohl auch - theoretisch - zumindestens eine "Rhetorische Klage" vor einer höheren Instanz allmählich rechtfertigen¹). * "Drangsalierei" nicht zu verwechseln mit "Drangsalierereien"! Für die Spitzfindigen: Es gab keine Gängeleien oder etwas derart - das behaupte ich gar nicht -, aber die Beschneidung von Grundrechten & das absichtliche Hinauszögern/Verlängern dieses Status (von Leuten, die auch nicht "mehr helle im Kopp" oder "gesünder"** sind als ich) empfinde ich persönlich als vorsätzliche oder zumindest mutwillige Gängelei {man/frau wird sich da sicher auch auf andere, bessere (& treffendere - vielleicht) Benennungen einigen können - von meiner Seite sehe ich da keinerlei Probleme}). ** Im Kopp oder im Leib. ¹ Ja, ich mache liebend gern Quatsch. Manchmal mache ich aber auch Ernst - und den ziehe ich dann von vorne bis hinten konsequent durch, wenn die Samthandschuhe ihre Daseinsberechtigung verloren haben oder zu verlieren drohen². ¹¹ Dank meiner juristischen Quasi-Null-Wissenheit (jedenfalls, was das tagtägliche Justiziar angeht) benötige ich leider schon für - vielleicht nicht die einfachsten, aber doch schon für: - einfachste Grundanwendungen/Erstschritte iwi erfahreneren juristischen Beistand, der mir bis dato immer gefehlt hat, wenn ich ihn gebraucht hätte [was sich die Schlawiner²² natürlich - weidlich ausnutzend - zunutze zu machen verstehen/verstanden haben]. ² Wenn's erst mal zu spät ist, ist es zu spät. Dann gibt es kein Einlenken mehr von meiner Seite (am Besten mal die fragen, die es schon so erlebt haben - ich lüge {da}³ nicht. ²² Hiermit meine ich alle diese Schlawiner, die mir im Laufe meines Lebens die Bahn gekreuzt haben & mit meistens vollbepackten Händen & Säckelchen sich aus dem Staub gemacht & mich im Straßenstaub stehend (natürlich mit entsprechend leereren Händchen & Säcklili), einsam & allein & hilfloser als davor, zurückgelassen haben. ³ Und woanders auch recht selten & wenn, dann meist nur aus Not. Um mich dahingehend austoben zu können, habe ich ja auch meine literarische Spielwiese - und mit dem Hypothesen-Erstellen (im Privatforschungsbereich) & dem Sprachkonstruktionen-Puzzlen (im Überallkannvorkommbereich) werden die natürlichen Bedürfnisse meiner Phantasieabteilung (dedodedaoben) auch hinreichend befriedigt & die meisten (auch Sonder-)Wünsche erfüllt, die sind alle voll ausgelastet damit (schon).
+
+Updated on 
+Apr 26, 2014
+ by 
+Zarko Maroli
+ (
+Version 12
+)

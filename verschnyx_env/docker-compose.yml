@@ -1,0 +1,22 @@
+services:
+  verschnyx:
+    build: .
+    container_name: verschnyx_bot
+    env_file:
+      - .env
+    volumes:
+      # Bibliothek und Medien: read-only
+      - ../knowledge:/app/library:ro
+      - ../media:/app/media:ro
+      # Tagebuch und Identitaet: beschreibbar
+      - ./memory:/app/memory
+      # Vektordatenbank: persistiert zwischen Neustarts
+      - ./vectorstore:/app/vectorstore
+      # ChromaDB Modell-Cache: verhindert erneuten Download bei jedem Start
+      - ./chroma_cache:/root/.cache/chroma
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+    stdin_open: true
+    tty: true

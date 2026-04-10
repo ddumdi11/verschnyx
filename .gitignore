@@ -1,0 +1,51 @@
+# ============================================================
+#  Verschnyx Erknyxowitsch — .gitignore
+# ============================================================
+
+# ─── Secrets & API Keys ─────────────────────────────────────
+.env
+*.env
+!.env.example
+
+# ─── Runtime-Daten (werden beim Start regeneriert) ──────────
+verschnyx_env/vectorstore/
+verschnyx_env/chroma_cache/
+verschnyx_env/memory/
+verschnyx_env/__pycache__/
+verschnyx_env/patches/__pycache__/
+
+# ─── Python allgemein ────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Grosse Dateien & Binaerarchive ─────────────────────────
+Pool_gemischte-Daten/
+*.tar
+*.zip
+*.gz
+*.bz2
+*.7z
+*.rar
+
+# ─── Deduplikations-Archiv ──────────────────────────────────
+knowledge/_archive/
+
+# ─── Claude Session-Daten ───────────────────────────────────
+.claude/
+
+# ─── OS & Editor ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ─── Media-Export (optional: auskommentieren wenn gewuenscht)
+media-export-*.tar

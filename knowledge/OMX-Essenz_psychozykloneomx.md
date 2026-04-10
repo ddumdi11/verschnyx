@@ -1,0 +1,17 @@
+---
+title: "Psychocyclone|omx"
+author: "zarko maroli"
+source: ebook
+---
+
+# Psychocyclone|omx
+
+Ein beliebtes Gesellschaftsspielchen unter den etwas primitiveren Naturen ist dieses "Ha, ha - verraten! Ja, ja, ja..."-Spielchen, wo auf irgendein Stichwort hin so reagiert/agiert wird, als hätte die Person, die zugehörig der soeben gehörten Äußerung ist, sich da soeben grade verplappert & selbst verraten; eine sonochvielleichtnichtgenannte Vermeintliche Freudsche Fehlleistung. Zählt zum Themenkomplex: IWIWASWEMINNESCHUHSCHIEBEN. (Findet meist - Letztgenannteres - einfach aus Jux&Dollerei statt, und ist vermutlich in den allermeisten Fällen einfach völlig gedankenloses Schenkelklopferanlassschnellerschaffen. Noch primitivere Naturen nehmen das dann mitunter sogar richtig ernst - Oh Gott! Das möchte man wohl sagen, doch die gibt es nicht nur, die nehmen das teilweise sogar - mafra kann's echt kaum glauben, wenn zum ersten Mal selbst Zeuge solcher Momente (Lebenserfahrenere wissen sicher, wovon ich spreche/schreibe) - biertierisch für bare Münze, was sie da heraus zu hören meinen & *. Entsprechend geäußerte (oder auch nicht verbal geäußerte) Mutmaßungen sorgen natürlich für eine gewisse innere Unruhe bis hin zur langsam & allmählich äußerlich iwan manifest ausbrechenden Unsicherheit - bestätigt das Ver- dachte dann sehr gut, oja, oh ja ! Jetzt mal etwas weg von den Albernheiten zur ernsten Thematik. Das Ganze kann dann innere Zyklone psychischer Art zur Folge haben, die mit allem Äußeren interagieren - Teufelskreise mit Von-Außen-&-von-Innen- Induzierter-teuflischer-Verstärkung einer Sache, die entweder gar nicht oder nur kaum Bezug zu tatsächlich stattgefundenen Ereignissen uonda Tun (Denken & Handeln) mal hatte³. Es gibt leider Mitmenschen, die wissen darum. Und zwar wissen die sehr gut darüber Bescheid - und: Nutzen diese Effekte sehr gerne für die ihren - oder was weiß ich was für - Zwecke verantwortungslosest aus. * Sich dabei - und dann tut's auch echt weh, sowas mit anzusehen¹ - auch noch für clever halten**. ** Für iwiwas wie Intelligenzbestien, die im Gegensatz zu den anderen, die nämlich - mutmaßlich wohlweißlich - nicht weiter auf solche Akte reagieren, die ernste Bedeutung dessen, was dahinter steckt, erst (& gleich sofort (!)) so richtig verstanden haben & dementsprechend strategisch dann mitunter vorzugehen suchen - was zu so Blüten wie einer Art Komplizenschaft sogar gedeihen kann***. *** Die sie den Betroffenen**** dann auch mal ernsthaft antragen. **** Der/die dann - auch zusätzlich betroffen durch die peinliche Berührtheit infolgedessen - oft gar nicht mehr die Wahl hat, sich auch diese A-Karte noch zu ziehen.***** ***** Ich habe da drei bestimmte (real-xistierende) Personen vor meinem geistigen Auge - und: Ja! Fundiert! Da kann ich aus einem in sozusagen in 12-jähriger Schöpfungsbrunnenauf-&ausbauphase entstandenen & stabilen Perma-Sprudel-Quell quasi jederzeit aus eigenen Labor-Testreihen-Ergebnissen (auch z.T. schriftlich belegbar) stets schöpfen. ¹ Wenn mafrafim dann auch noch miterleben darf, wie die draus Konsequenzen ziehen, und zwar: als Träger, Folgen- (ipso) ... .² ² Schuld ist der 1. Mai - bin heute nich so gut/ganz dabei... ³ Ursprünglich, initial.
+
+Updated on 
+Mai 2, 2014
+ by 
+Zarko Maroli
+ (
+Version 11
+)
