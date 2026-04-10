@@ -1,0 +1,16 @@
+---
+title: "Bedürfnis-Stillung hinblicklich Waage zwischen persönlicher Bedürfnis-Stillung & Fremdbedürfnis-Stillung"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 43
+word_count: 190
+kb_match_status: "NEW"
+kb_best_sim: 0.01
+kb_best_match: "GOMX-Pt2_OEBPS_Text_beleidigung-mobbing-omx.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Bedürfnis-Stillung hinblicklich Waage zwischen persönlicher Bedürfnis-Stillung & Fremdbedürfnis-Stillung
+
+></a>Bedürfnis-Stillung hinblicklich Waage zwischen persönlicher Bedürfnis-Stillung & Fremdbedürfnis-Stillung</h3><p><br></p><p>Es ist hieran gut zu sehen, wie alles "miteinander verwoben" betrachtet werden kann:</p><p>"Konventioneller Unterscheidungsweg" scheint mir beim Fortschreiten eher ein weiteres Unterscheiden<br>in streng logische Unter-, von zuvor "gesetzten" (siehe auch: <a href="https://sites.google.com/site/hembelzomx/home/om-x-se/dogmatree-omx">dogmatree | omx</a>!) Ober-Punkten ausgehend<br>zu sein (da bin ich wahrscheinlich aber einfach nicht uptodate-genug hinsichtlich</p><p>aktuellem, übergreifendem [hinsichtlich "Konsens, international]</p><p>Forschungs-Erkenntnisstand)</p><p>- wovon ich "intuitiv"* hier<br>jetzt gerne abweichen</p><p>zu dürfen können</p><p>möchte<br>;-)</p><p>.</p><p>Meine obige Entscheidung macht auch Sinn (die Herleitung vielleicht im Sinne "streng logisch"</p><p>bzw. " - streng deduktiv" weniger: So ist aber der Weg, der mir persönlich bewußt wurde),</p><p>meine & glaube ich - lasse mich aber, wie immer, gerne eines Besseren belehren :-).</p><p>Ein Aspekt, der von einer anerkannten "Geistesgröße" hierzu vor längerer Zeit (historisch betrachtet)</p><p>einst ins Spiel gebracht worden ist, sollte - meiner Meinung nach, wieder nur "intuitiv"</p><p>von mir "begründbar" (siehe auch: "'Süßes' Menschverhalten" aus einer</p><p>individuell gefärbten Perspektive, die ins übergeordnete,</p><p>Richtung "objektiver Anschauung"</p><p>abzudriften scheinen</p><p>mag!) - nicht ganz</p><p>unbeachtet</p><p>bleiben</p><p>:</p><p><br>[<br>Ich war übrigens im eigenen Leben bis zum Jahr 2005 (+- 1 Jahr - aus der Erinnerung*) Katholik,</p><p>danach bin ich dann offiziell aus dieser Kirche ausgetreten:</p><p>Ich bleibe aber sehr davon geprägt</p><p>- was ich nicht als schlecht</p><p>mittlerweile erachte,</p><p>ungeachtet einem<br>"irreversibel"</p><p>Scheinen<br>der meinen</p><p>Entscheidung</p><p>(von mir ausgehend)<br>]<br>.</p><p><br></p><h1>

@@ -1,0 +1,15 @@
+---
+title: "Wir sind besorgt um die Menschheit"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 110
+word_count: 252
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+integration_proposal_date: "2026-04-09"
+---
+
+# Wir sind besorgt um die Menschheit
+
+></a>Wir sind besorgt um die Menschheit</h2><p>"Es ist anders, als Viele denken. Wir befinden uns nicht in einem ständigen Kampf um Leben und Tod, in dem Granaten und Kugeln hin und herfliegen, viel Zeit verbringen wir auch mit Schlafen, Essen und Zusammensitzen", sagt Bohman.</p><p>"Es gibt nicht viele von uns hier, aber wir repräsentieren unsere Sorge um die Menschheit. Wir glauben, wir tun das Richtige hier, unterstützen den Kampf gegen das Böse, helfen den Hilflosen. Wir sind die Speerspitze eines Kampfes, bestehend aus Menschen, die nicht länger auf das Scheitern ihrer Regierungen warten wollen."</p><p><br><a href="http://www.focus.de/politik/ausland/von-vancouver-in-den-irak-kanadisches-ex-model-kaempft-gegen-terrormiliz-die-is-kaempfer-sind-feiglinge_id_5134524.html">http://www.focus.de/politik/ausland/von-vancouver-in-den-irak-kanadisches-ex-model-kaempft-gegen-terrormiliz-die-is-kaempfer-sind-feiglinge_id_5134524.html<br></a></p><p>Das Bild des toten dreijährigen Flüchtlingsjungen Aylan an einem Strand in der Türkei bewegte die ganze Welt. Sein Vater trauert um die gesamte Familie, wohnt inzwischen wieder im zerstörten Kobane. Er erzählt, warum die Familie überhaupt flüchten wollte.</p><p>Der Vater des toten Flüchtlingskindes Aylan, Abdullah Kurdi, hat über neue Details seiner Flucht aus Kobane berichtet. Gegenüber <a href="http://www.bild.de/politik/inland/fluechtling/ich-bin-der-vater-von-alyan-dem-toten-jungen-vom-strand-42724740.bild.html">der "Bild"-Zeitung</a> wehrte sich Kurdi gegen Vorwürfe, er sei selbst Schlepper gewesen. "Ich kann nicht verstehen, wie Leute solche Lügen verbreiten können. Ich war niemals Schlepper und werde es nie sein."</p><p>Er habe gute Gründe gehabt, Kobane zu verlassen: "Ich wurde vom IS gefoltert, man hat mir mit einer Rohrzange die Vorderzähne gezogen", erzählt Kurdi der "Bild". "Als ich fliehen konnte, musste ich schnell weg. Meine Familie ist aber nur kurz danach nachgekommen."</p><p>Er habe monatelang versucht, ein Visum für Kanada zu bekommen, wo seine Schwester lebe. Aus Verzweiflung seien sie dann in das Boot gestiegen. Am Ende waren seine beiden Söhne und seine Frau tot.</p><h2>

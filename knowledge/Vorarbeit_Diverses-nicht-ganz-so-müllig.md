@@ -1,0 +1,23 @@
+---
+title: "Diverses, nicht ganz so müllig"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 277
+word_count: 287
+kb_match_status: "NEW"
+kb_best_sim: 0.01
+kb_best_match: "OMX-Essenz_westunpaledappholedays-noomx.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Diverses, nicht ganz so müllig
+
+></a>Diverses, nicht ganz so müllig</h3><p>https://drive.google.com/file/d/0B30871ANlQ1EbVk2YzV2N01yOUE/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EMV83LTZuNWp4TVU/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1Ec3QzazNsMGlDQUU/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1ESDNkLWNlckNrdlk/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EZVVXMm50a0tIMEk/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EbGd1TzIyMDlieWM/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1Edzhqb3YxUTFja3M/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EMEh5N2hDQ2hGS28/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EMS1pLW9ZZGVWb1k/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EWXMwSDhlbm1wbk0/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EV2hyamx1SGVtZGc/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1Ea2xrYzJQMlBaY2M/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EQmxDWUJrUkVrVG8/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1ENWhRaDBGUDhMVU0/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1ES0RCSUpwQTRnb3c/view?usp=sharing<br>https://drive.google.com/file/d/0B30871ANlQ1EelQxYWNkekVfd3c/view?usp=sharing</p></th></tr></tbody></table><p><a id="sites_canvas_bottom_panel_121"></a></p><p><a id="COMP_page_subpages_120"></a></p><p><a id="sites_attachments_container_120"></a></p><p><a id="page_comments_120"></a></p><p><a id="COMP_page_comments_121"></a></p></th></tr></tbody></table></div>
+
+|     | t   |
+| --- | --- |
+
+Lust, E. (in Ö) | omx
+
+<div class="joplin-table-wrapper"><table><tbody><tr><th><p><a id="sites_canvas_127"></a></p><p><a id="sites_canvas_main_127"></a></p><p><a id="_Die_chauvinistische_Branche_str_1"></a></p><table><tbody><tr><th><p>"Die chauvinistische Branche strebt nach jungen Darstellerinnen, ältere werden systematisch ausgeschlossen", klagt Lust. Das ist freilich nicht nur bei Pornos der Fall, sondern auch beim Modelling, in der Musikbranche und im Mainstream-Kino. Während in diesen Branchen Feministinnen sich aber bereits für ihre Präsenz einsetzen, wird um die Pornobranche meist ein weiter Bogen gemacht - hier steht Lust auf und kämpft ihren Kampf.</p><p>Inspiration für ihre Projekte bekommt Lust auch von ihren Fans. Auf ihrer Website <a href="http://xconfessions.com/">xconfessions.com</a> können diese ihre Fantasien niederschreiben, Lust verfilmt anschließend ausgewählte Geschichten. "Viele Leute fragen mich, ob die Gratiskultur im Internet mein Geschäft schädigt", sagt sie, "aber tatsächlich gäbe es mein Business ohne das Web nicht."</p><p>Aus dem XConfessions-Projekt entstand eine Kurzfilmreihe, darunter unter anderem "The Couchsurfer", in dem eine Gastgeberin der Zimmervermittlungsplattform Airbnb einen Gast auf besondere Weise empfängt. Lusts Ansatz: Das Intro wurde gefilmt und geschnitten wie ein Werbevideo für Airbnb, nahtlos geht die Story dann in eine Sexszene über.</p><p>Mit „Let's make a porno" hat die Regisseurin und Produzentin außerdem ein eBook geschrieben, dass eine Anleitung zum professionellen Drehen eines eigenen Pornofilms bietet. <a href="http://erikalust.com/books/lets-make-a-porno/">Auf ihrer Website kann es gratis heruntergeladen werden</a>, in spanischer und englischer Sprache.</p><p>© Lust Films</p><p>Mit ihren Arbeiten will die Produzentin und Autorin vor allem, aber nicht nur Frauen ansprechen. Ihre "Reality-Pornos" richten sich an Kunst- und Kinointeressierte. An ein urbanes, intellektuelles Publikum, das sich von billigen Pornos mit platten Dialogen und Stellungen eher angewidert als angesprochen fühlt.</p><p>Dazu gehört auch, dass die Darsteller keine unnatürlichen Muskelpakete mit Monsterpenissen oder stark geschminkte Gespielinnen mit Riesenbrüsten sind, sondern Menschen mit durchschnittlichen Alltagskörpern.</p><h2>

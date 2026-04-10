@@ -1,0 +1,16 @@
+---
+title: "Die falschen Christen des Kim Jong-un"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 220
+word_count: 279
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+kb_best_match: "2013-10-15_Ein-Neosporakelle.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Die falschen Christen des Kim Jong-un
+
+></a>Die falschen Christen des Kim Jong-un</h2><p>In Nordkorea werden Gläubige brutal verfolgt - doch für Ausländer halten falsche Priester Gottesdienste mit Statisten ab. Das Regime verfolgt damit einen bestimmten Zweck.</p><p>01.12.2015, von <a href="http://www.faz.net/redaktion/petra-kolonko-11104165.html">Petra Kolonko</a>, PJÖNGJANG<br></p><p>© Corbis Beten für Kim-Jong-un: Christen-Darsteller in einer Kirche in Pjöngjang</p><p>Als eine deutsche Besuchergruppe im Juni dieses Jahres eine Messe in der <a href="http://www.faz.net/aktuell/gesellschaft/thema/katholische-kirche">katholischen Kirche</a> von Pjöngjang besuchte, wurde sie von einer Hasspredigt überrascht. Ein Nordkoreaner, der als „Pater Francisco" vorgestellt wurde, beschimpfte Südkorea als eine Kolonie der Imperialisten. Mit Gottes Hilfe solle ein „heiliger Krieg" zur Wiedervereinigung geführt werden, falls der Süden den Norden angreife, predigte der vermeintliche Pater. Es sei die Pflicht der Katholiken in Nordkorea, dem Marschall Kim Jong-un ihre Treue zu schwören. Die deutschen Besucher um den CSU-Abgeordneten Hartmut Koschyk waren empört und protestierten bei den nordkoreanischen Gastgebern.</p><p><a href="http://www.faz.net/redaktion/petra-kolonko-11104165.html">Autorin: Petra Kolonko, Politische Korrespondentin für Ostasien.</a> Folgen:<a href="https://plus.google.com/105556132659495848309?rel=author"></a></p><p>Fünf Monate später weilt wieder eine deutsche Delegation in Pjöngjang und besucht wieder die kleine <a href="http://www.faz.net/aktuell/gesellschaft/thema/kirche">Kirche</a> in der Hauptstadt. Diesmal klingt alles anders. Eine Gruppe von südkoreanischen Priestern ist zu Besuch und zelebriert die Messe. „Pater Francisco" ist dabei, im Gewand eines Diakons, und verliest eine freundliche Grußbotschaft an die Gäste aus dem Süden. Jetzt wird für die Wiedervereinigung gebetet.</p><p>„Nein, es gibt keine Priester in Nordkorea", sagt einer der südkoreanischen Priester nach der Messe mit Blick auf „Pater Francisco". Der Gottesdienst mit ihm im Juni war eine Farce. Der falsche Priester tritt im Auftrag des Regimes auf - ob nur vor ausländischen Besuchern oder auch an normalen Sonntagen, ist nicht bekannt. Seine Schau soll ausländischen Besuchern vorgaukeln, dass es in Nordkorea katholische Gläubige und Religionsfreiheit gibt, doch in Wahrheit erfüllt die Kirche nur eine Schaufunktion.</p><h2>

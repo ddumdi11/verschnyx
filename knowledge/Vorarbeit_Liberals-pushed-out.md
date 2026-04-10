@@ -1,0 +1,15 @@
+---
+title: "Liberals pushed out"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 438
+word_count: 274
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+integration_proposal_date: "2026-04-09"
+---
+
+# Liberals pushed out
+
+></a>Liberals pushed out</h2><p>Despite his long reign President Putin's approval ratings are still above 80%, Russian media report - the kind of popularity that most Western leaders can only dream of.</p><p>Mr Putin's brand of patriotism dominates Russia's media, so those ratings do not give the whole picture. But dissenters do struggle to be heard.</p><p><a href="http://www.bbc.com/news/world-europe-15047823">Jump media player</a></p><p><a href="http://www.bbc.co.uk/faqs/online/mp_accessibility_help">Media player help</a></p><p><a href="http://www.bbc.com/news/world-europe-15047823#afterFlash">Out of media player. Press enter to return or tab to continue.</a></p><p>Media captionVladimir Putin's popularity is still strong after 15 years, as Sarah Rainsford reports</p><p>He was re-elected president in 2012 for a third, six-year term in the Kremlin. Even in the previous four years, as prime minister under President Dmitry Medvedev, he was clearly holding the levers of power.</p><p>In his first two terms as president Mr Putin was buoyed by healthy income from oil and gas - Russia's main exports.</p><p>Living standards for most Russians improved. There was a new sense of stability and national pride. But the price, in the opinion of many, was the erosion of Russia's fledgling democracy.</p><p>In the run-up to his re-election, Russia was gripped by the biggest anti-government protests since Soviet times.</p><p>Protest leaders have been jailed or otherwise marginalised - including the most prominent dissident, <a href="http://www.bbc.co.uk/news/world-europe-16057045">Alexei Navalny</a>. He made a name for himself by exposing rampant corruption, labelling Mr Putin's United Russia as "the party of crooks and thieves".</p><p>Early on Mr Putin set about marginalising liberals, often replacing them with more hardline allies or neutrals seen as little more than yes-men.</p><p>Yeltsin's favourites such as Boris Berezovsky and Vladimir Gusinsky - businessmen who grew rich in the chaos of the first privatisations - ended up as fugitives living in exile abroad.</p><h2>
