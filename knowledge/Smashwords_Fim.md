@@ -1,0 +1,34 @@
+---
+title: "Fim"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "offene-fragen-unfertige-bilder-prebook.epub"
+source_index: 7
+word_count: 421
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+kb_best_match: "2013-05-30_Wie-und-was-Wer-denn-überhaupt-wann-genau-wer-war-wer-und-wer-behauptete-das---d.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Fim
+
+Fim
+
+Ich selbst bin ein Mann, neige also naturgegeben zu typisch männlichen Idiotien, wie alle meine Geschlechtsgenossen - wie aber auch alle anderen Geschlechter teilweise durch natürliche Anlagen typische (oder typisch zu nennende, vorübergehend evtl.) Verhaltensmuster oder Ansichten entwickeln können, die fim von einer objektiveren Warte aus betrachtet eigentlich nur idiotisch (oder so) nennen kann. Das gibt es. Es gibt freilich viel mehr als nur Idiotien oder keine Idiotien.
+
+Feminist kann ich also gar nicht sein, selbst wenn ich das wollen würde.
+
+Nichtsdestotrotz stoße ich mich immer an dem “man” im Deutschen, weil mir das implizit vorgibt, an Männer zu denken oder von Männern zu sprechen, wo aber allgemein alle Menschen mit gemeint sein sollen. Darum habe ich iwan die Entscheidung getroffen, im Bereich meiner Arbeit das Wörtchen “fim” zu verwenden - was mir heute immer noch manchmal schwer fällt und mich Überwindung kostet, was sich aber andererseits auch als ganz praktisch hi und da erwiesen hat und immer noch erweist (unpraktisch vor allem, weil es natürlich wie eine seltsame Schrulligkeit “rüberkommt”, jedenfalls zu denen, die den Anblick dieser Gestalt noch nicht gewohnt sind - man(n) kann sich dran gewöhnen, durchaus).
+
+FIM steht einfach für feminin, inter-x, maskulin: f.i.m..
+
+Es ist so kurz wie das gewohnt-allseits-beliebte “man”.
+
+Die Anordnung hat hauptsächlich etwas mit der Artikulation zu tun:
+
+mif, imf, ifm, fmi erscheinen mir deutlich unpraktischer, das mif und imf vor allem, weil es im Deutschen eher Assoziationen weckt, die von der Absicht allen die gleiche Ehre zu erweisen wegführen könnte. Auch das “fim” habe ich natürlich auf mögliche negative oder die Sache ins Lächerliche ziehende Assoziationen abgeklopft, und habe befunden, daß es zwar lustig wirkt (und weniger ernsthaft als das “man”), aber nicht ehrabschneidend. Außerdem scheint sich mir das, worüber es sich eventuell lustig machen könnte, schon auch relativ unzweideutig auf das an dieser Stelle gewohnt erwartete “man” beziehen zu können, ohne daß es erst einer weiteren Erklärung bedarf. Vielleicht täusche ich mich da. Grundsätzlich gilt hier und mir aber ohnehin: Ein bisschen Spaß darf sein! Sollte nicht schaden, nicht wirklich.1
+
+1 Sollte das überernsthafte Naturen in die Flucht schlagen, dieses immer wieder hier auftauchende “Unernste” oder sogar höchst Alberne, dann ist damit vielleicht sogar etwas Gutes gewonnen: Es bewirkt dann eine Art “Spreu vom Weizen trennen”-Effekt,
+
+wo Leute, mit denen (meiner Meinung nach) eh (für mich & mit mir) “kein Krieg zu gewinnen”, “keine Häusle aufzubauen” ist, sich schon von selbst da fernhalten, wo sie nicht mit hineingehören (können) - spart mir die Einstellung von Türstehern oder ungünstige Eigentürsteherarbeitsaufwände ;-).

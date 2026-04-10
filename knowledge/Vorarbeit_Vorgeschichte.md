@@ -1,0 +1,15 @@
+---
+title: "Vorgeschichte"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 191
+word_count: 167
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+integration_proposal_date: "2026-04-09"
+---
+
+# Vorgeschichte
+
+></a>Vorgeschichte</h2><p>→ Hauptartikel: <a href="https://de.wikipedia.org/wiki/Syrischer_B%C3%BCrgerkrieg">Syrischer Bürgerkrieg</a> und <a href="https://de.wikipedia.org/wiki/Russischer_Milit%C3%A4reinsatz_in_Syrien#Weiterer_Verlauf">Russischer Militäreinsatz in Syrien#Weiterer Verlauf</a></p><p>Die Streitkräfte der Russischen Föderation griffen erstmals am 30. September 2015 auf Seiten der Regierung <a href="https://de.wikipedia.org/wiki/Syrien">Syriens</a> in den <a href="https://de.wikipedia.org/wiki/Syrischer_B%C3%BCrgerkrieg">Syrischen Bürgerkrieg</a> ein. In der Folge wurden unter anderem Jagdflugzeuge des Typs <a href="https://de.wikipedia.org/wiki/Suchoi_Su-30">Suchoi Su-30</a>, <a href="https://de.wikipedia.org/wiki/Suchoi_Su-24">Su-24</a>- und <a href="https://de.wikipedia.org/wiki/Suchoi_Su-34">Su-34</a>-Jagdbomber und <a href="https://de.wikipedia.org/wiki/Suchoi_Su-25">Su-25</a>-Erdkampfflugzeuge sowie unbemannte Aufklärungsdrohnen nach Syrien verlegt. Bereits kurz nach Beginn der Einsätze kam es dabei zu einem unbeabsichtigten Einflug eines russischen Kampfflugzeugs in den türkischen Luftraum, gegen den die türkische Regierung protestierte; die russische Seite erklärte den Einflug mit ungünstigen Wetterverhältnissen.<a href="https://de.wikipedia.org/wiki/Abschuss_einer_Suchoi_Su-24_der_russischen_Luftwaffe_2015#cite_note-3">[3]</a></p><p>Nur vier Tage vor dem Zwischenfall, am 20. November 2015, war der russische Botschafter einbestellt worden, da sich die Türkei über russische Luftangriffe auf turkmenische Siedlungen in Syrien - in der Region, in der schließlich der Abschuss geschah - beschwerte, bei denen nach türkischen Aussagen keine Terroristen, sondern nur Zivilisten getroffen würden; das Außenministerium in Ankara drohte anschließend in einer Stellungnahme „ernsthafte Konsequenzen" an, wenn die Angriffe weiter fortgesetzt würden.<a href="https://de.wikipedia.org/wiki/Abschuss_einer_Suchoi_Su-24_der_russischen_Luftwaffe_2015#cite_note-4">[4]</a><a href="https://de.wikipedia.org/wiki/Abschuss_einer_Suchoi_Su-24_der_russischen_Luftwaffe_2015#cite_note-5">[5]</a></p><h2>

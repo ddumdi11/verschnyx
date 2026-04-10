@@ -1,0 +1,16 @@
+---
+title: "Russische Angaben"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 196
+word_count: 252
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+kb_best_match: "OMX-Essenz_europaschulden-omx.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Russische Angaben
+
+></a>Russische Angaben</h3><p><br><br>Was/Wer?<br></p><p>Wieso?<br></p><p>Wo und wann?<br></p><p>Weiteres<br></p><p>Warum/mit welcher Begründung?<br></p><p>Hat der Jet zuvor turkmenische Stellungen bombardiert onda ausgespäht - oder Ähnliches (vorbereitende Kriegshandlungen)?<br><br></p></th></tr></tbody></table><p>Leider muß ich zugeben, daß der Vorfall mich "überrannt" hat, womit ich sagen will, daß ich im Rahmen meiner Zeit und bescheidenen Möglichkeiten hierbei nicht aktuell bleiben kann.</p><p>Für das, was ich und was diese Website will, ist es allerdings auch nicht nötig, auch nur annähernd mit Nachrichten-Webseiten mithalten zu können (ich wollte es nur noch einmal erwähnt haben).</p><p>Von Zeit zu Zeit onda immer wenn es direkt meine Thematiken berührt, was mir tagesaktuell in dem Fall vor die Augen kommt, werde ich nachholen, diesen und die damit verbundenen Artikel zu aktualisieren.</p><p>Bis dahin dürfte die englischsprachige Wikipedia eine der ersten Adressen sein für fim, wo in Bedürfnissen sich wiederfindet, die dahingehend innerlich drängeln, übersichtlich zusammengestellte, halbwegs oder möglichst objektive Basisinformationen mit wenig politischer Färbung zum Lesen zu ergattern (oso).</p><p>Ich kann die Wikipedia immer nur wieder sehr empfehlen, sowie darüber hinaus den angegebenen Links zu folgen und so & selbst dann weiterzurecherchieren - das Netz ist voller Informationen (und Überraschungen).</p><p>Den Deutschen, die Englisch nicht gut beherrschen, kann ich desweiteren nur einen Englischkurs und Üben, Üben, Üben empfehlen, denn leider ist das deutschsprachige Nachrichtenangebot immer leicht limitiert, unvollständig und einen Touch zu abgehoben (Wohnzimmerflairbräsigkeiten aus der heimeligen, sicheren Mitte Europas) etc. getönt, was sich in der Wikipedia vor allem in/aus einer vermehrten Spärlichkeit bestehend zu manifestieren versteht... oso.<br><br></p><p>"<a href="https://commons.wikimedia.org/wiki/File:Russian_chart_of_Su-24_shootdown_by_Turkey_in_English.jpg#a__media_File_Russian_chart_of_Su-24_shootdown_by_Turkey_in_English_jpg">Russian chart of Su-24 shootdown by Turkey in English</a>" by Mil.ru. Licensed under <a href="http://creativecommons.org/licenses/by/4.0">CC BY 4.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p><h3>

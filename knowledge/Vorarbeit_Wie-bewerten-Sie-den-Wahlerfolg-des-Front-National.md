@@ -1,0 +1,15 @@
+---
+title: "Wie bewerten Sie den Wahlerfolg des Front National?"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 181
+word_count: 177
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+integration_proposal_date: "2026-04-09"
+---
+
+# Wie bewerten Sie den Wahlerfolg des Front National?
+
+></a><br>Wie bewerten Sie den Wahlerfolg des Front National?</h3><p>Nach ersten Hochrechnungen wird der Front National bei den Regionalwahlen in Frankreich stärkste Kraft. Die rechtsextreme Partei erhielt demnach etwa 28 Prozent der Stimmen. Ihr Forum</p><p><a href="http://www.sueddeutsche.de/">zur Startseite</a></p><ul><li>Diskussion zu diesem Artikel auf:</li><li><a href="http://rivva.de/sz.de/1.2771286">Rivva</a></li></ul><p><br><a href="http://www.sueddeutsche.de/politik/wahl-in-frankreich-der-rechtsextreme-spuk-ist-noch-lang-nicht-vorbei-1.2771286">http://www.sueddeutsche.de/politik/wahl-in-frankreich-der-rechtsextreme-spuk-ist-noch-lang-nicht-vorbei-1.2771286<br><br></a></p><p>Wird es Europa nach 2017 noch geben?<br><br></p><p>Witold Waszczykowski gab sich erst einmal sanftmütig. "Ich bin nach Berlin gekommen, um die deutsch-polnische Freundschaft zu festigen", sagte Polens neuer Außenminister bei seinem Antrittsbesuch in der Bundeshauptstadt. Er habe in Berlin studiert und verbinde "nur gute Erinnerungen mit Deutschland".</p><p>Frank-Walter Steinmeier hörte die Botschaft am Donnerstagabend wohl. Ob der deutsche Außenminister die netten Worte auch glaubte, bleibt sein Geheimnis. Sicher ist: Polens neue Rechtsregierung hat in den ersten zehn Tagen ihrer Amtszeit bereits viel europäisches Porzellan zerschlagen.</p><p>Waszczykowski selbst hatte die Zusage der Vorgängerregierung, einige Tausend Asylsuchende aufzunehmen, nach den Anschlägen von Paris infrage gestellt und stattdessen die Idee einer <a href="http://www.zeit.de/politik/ausland/2015-11/fluechtlinge-polen-armee-fuer-syrien">syrischen Flüchtlingsarmee</a> ins Spiel gebracht. Zugleich drohte Warschau kurz vor dem Weltklimagipfel mit einem Veto gegen die EU-Verhandlungsstrategie. Als traditionelles Kohleland werde Polen "<a href="http://www4.rp.pl/Surowce-i-Chemia/311209886-Naimski-Nie-podpisujmy-niczego-w-Paryzu.html">kein Dokument unterzeichnen</a>, das unserer Wirtschaft schadet".</p><h2>

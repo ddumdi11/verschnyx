@@ -1,0 +1,15 @@
+---
+title: "Shell stoppt Ölbohrungen in Alaska Konzern - Wirtschaft ..."
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 294
+word_count: 253
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+integration_proposal_date: "2026-04-09"
+---
+
+# Shell stoppt Ölbohrungen in Alaska Konzern - Wirtschaft ...
+
+></a>Shell stoppt Ölbohrungen in Alaska Konzern - Wirtschaft ...</p><p>www.sueddeutsche.de › Wirtschaft</p><p>28.09.2015 - Der Ölkonzern Shell stoppt Bohrungen in Alaska, weil die bisherigen Funde von Öl und Gas für weitere Bohrungen nicht ausreichten.</p><p><br><br></p><p>Und das:</p><p>Ungeachtet der Proteste <a href="http://www.sueddeutsche.de/wirtschaft/erdoel-foerderung-obama-regierung-erlaubt-shell-oel-bohrung-in-alaska-1.2611529">erlaubte US-Präsident Barack Obama Shell im Mai</a> aber unter Auflagen Öl- und Gasbohrungen vor Alaska. Die demokratische Präsidentschaftsbewerberin Hillary <a href="http://www.sueddeutsche.de/politik/usa-clinton-kritisiert-shell-probebohrungen-in-der-arktis-1.2612926">Clinton sprach sich Mitte August allerdings dagegen aus</a>. Sie nannte die Arktis einen "einzigartigen Schatz", das Risiko der Bohrungen sei zu groß.</p><p><br><br></p><p>Und deshalb würde ich so etwas nur schreiben,<br>wenn ich Brötchen zum Fressen gern</p><p>oder Kohle für Koks gern</p><p>haben hätte/</p><p>würde¹¹</p><p>:<br><br>30.11. 2015</p><p>Zusammengefasst: Gerade noch erlaubte Barack Obama Ölbohrungen in der Arktis - jetzt präsentiert er sich bei der Uno-Klimakonferenz als Umweltretter. In seiner Rede ruft er zu ambitionierten Klimazielen auf. Dabei gibt es im eigenen Land reichlich Kritik an seinem plötzlichen Naturschutzkurs. Gegner vermuten, der scheidende Präsident feile nur noch an seinem politischen Erbe.</p><p><a href="http://www.spiegel.de/politik/ausland/klimagipfel-in-paris-so-lief-obamas-auftritt-a-1065330.html#">http://www.spiegel.de/politik/ausland/klimagipfel-in-paris-so-lief-obamas-auftritt-a-1065330.html#<br><br><br></a></p><p>"...feile nur noch an seinem politischen Erbe ..." - Nein, sowas schon gar nicht,</p><p>über dieses Niveau bin ich hoffentlich mittlerweile</p><p>hinaus gekommen, und ich hoffe,</p><p>ich muß da nicht mehr</p><p>drauf hinabhinun-</p><p>ter kommen<br>,</p><p>lollo</p><p>li</p><p>la</p><p>lulu<br>.</p><p>Das weiß ich erst jetzt:</p><p>Nach mehr als 20 Jahren darf der Mineralölkonzern <a href="http://www.sueddeutsche.de/thema/Shell">Shell</a> vor Alaska wieder nach Öl bohren. Das US-Innenministerium erteilte am Montag eine entsprechende <a href="http://www.bsee.gov/BSEE-Newsroom/BSEE-News-Briefs/2015/BSEE-Approves-Updated-Permit-for-Exploration-Activities-in-Arctic-Waters-Under-Rigorous-Safety-Requirements/">Genehmigung</a>. Sie erlaubt es Shell, in der ölreichen Tschuktschensee vor der Nordwest-Küste Alaskas unterhalb des Meeresbodens zu bohren.</p><p>Der britisch-niederländische Konzern musste dafür eine spezielle Sicherheitsausrüstung anschaffen, die mögliche Lecks verhindern soll. Zuvor hatte Shell bereits die Genehmigung erhalten, in der Tschuktschensee in höheren Ebenen nach Öl zu bohren.</p><h3>

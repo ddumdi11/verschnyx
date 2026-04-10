@@ -1,0 +1,16 @@
+---
+title: "Valéry Giscard d'Estaing „In Wahrheit ist die Bedrohung heute nicht so groß wie damals""
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 97
+word_count: 239
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+kb_best_match: "2013-10-15_Ein-Neosporakelle.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Valéry Giscard d'Estaing „In Wahrheit ist die Bedrohung heute nicht so groß wie damals"
+
+></a>Valéry Giscard d'Estaing „In Wahrheit ist die Bedrohung heute nicht so groß wie damals"</h2><p>Anlässlich des Staatsaktes für Helmut Schmidt spricht der ehemalige französische Staatspräsident über seine Freundschaft zum deutschen Altkanzler, Terrorbedrohung und seine Erwartungen an Europa.</p><p>23.11.2015, von <a href="http://www.faz.net/redaktion/michaela-wiegel-11104455.html">Michaela Wiegel</a> und Charles Jaigu (Le Figaro)</p><p>© Valérie Saunier „Ein wahrer, treuer Freund": Valéry Giscard d'Estaing über Helmut Schmidt</p><p>„Bonjour, Guten Tag!" Valéry Giscard d'Estaing empfängt in der majestätischen Eingangshalle seines Pariser Stadthauses. Ein Hauch von Elysée-Palast liegt über seinem privaten Reich: schwere Vorhänge, Orientteppiche, Lüster, Stuck und alte Möbel. Von der Terrorbedrohung, die auf Frankreich lastet, lässt sich der frühere Präsident nichts anmerken. Eher beiläufig erwähnt er, dass Präsident <a href="http://www.faz.net/aktuell/politik/thema/fran%C3%A7ois-hollande">François Hollande</a> ihn nach den Anschlägen angerufen und um Rat gefragt habe.</p><p><a href="http://www.faz.net/redaktion/michaela-wiegel-11104455.html">Autorin: Michaela Wiegel, Politische Korrespondentin mit Sitz in Paris.</a> Folgen:<a href="https://plus.google.com/115219641427853200595?rel=author"></a></p><p>Dem 89 Jahre alten Staatsmann bereitet es sichtlich Vergnügen, sich auf Deutsch zu unterhalten. „Wer reitet so spät durch Nacht und Wind", beginnt er aus Goethes „Erlkönig" zu zitieren. Er habe noch einen sehr traditionellen Deutschunterricht erlebt und „so nützliche Vokabeln wie Armbrust gelernt", sagt er. Er wurde 1926 in Koblenz geboren, sein Vater gehörte zu den französischen Besatzungskräften. Er erinnere sich noch an sein deutsches Kindermädchen, Mathilde, sagt er. Als er Präsident wurde, lud er sie einmal in den Elysée-Palast ein, „sie war überhaupt nicht eingeschüchtert". Sonntags gehe er gelegentlich zur deutschsprachigen Messe in die kleine <a href="http://www.faz.net/aktuell/gesellschaft/thema/kirche">Kirche</a>, die nur ein paar Schritte von seinem Domizil entfernt liege.</p><p>Anzeige</p><p>ELEKTROMOBILITÄT</p><h2>

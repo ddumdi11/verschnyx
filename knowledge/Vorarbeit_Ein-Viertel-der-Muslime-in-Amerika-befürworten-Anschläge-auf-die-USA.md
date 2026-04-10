@@ -1,0 +1,15 @@
+---
+title: ""Ein Viertel der Muslime in Amerika befürworten Anschläge auf die USA""
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 491
+word_count: 400
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+integration_proposal_date: "2026-04-09"
+---
+
+# "Ein Viertel der Muslime in Amerika befürworten Anschläge auf die USA"
+
+></a>"Ein Viertel der Muslime in Amerika befürworten Anschläge auf die USA"</h3><p>"So lange wir nicht wissen, was vor sich geht, machen wir für alle Muslime die Grenzen dicht. Auch für Touristen", sagte Trump und sprach von der Gefahr, die von den Muslimen ausgehe, nicht nur von denen in Ländern wie Syrien und Irak, "sondern denen in unserem Land." Ein Viertel der Muslime in Amerika würden Anschläge auf die USA befürworten, "weil sie sich im globalen Dschihad befinden", sagte er. Die Menge tobte.</p><p>Anzeige</p><p>Dass diese Zahl auf eine angebliche Studie eines Mannes namens Frank Gaffney Junior zurückgeht, der als Anti-Muslim-Extremist eingestuft wird und sich gemeinsam mit anderen Rassisten und Holocaustleugnern auf der schwarzen Liste einer anerkannten Bürgerrechtsorganisation befindet, sagte Trump natürlich nicht. Doch hätte das vor diesem Publikum einen Unterschied gemacht? Wohl kaum.</p><p>Seit den Anschlägen in Paris am 13. November hetzt Donald Trump gegen Muslime und legt alle paar Tage einen neuen Holzscheit in die Glut der Islamophobie. Bisher hatte er damit Erfolg.</p><p>...</p><p>Und nun also seine Forderung, überhaupt keine Muslime mehr ins Land reisen zu lassen. Man kann <a href="http://www.sueddeutsche.de/thema/Donald_Trump">Donald Trump</a> einen Rassisten nennen; sicher jedenfalls ist er ein Opportunist, der alles tut, was seine Umfragewerte wenige Wochen vor den Vorwahlen in Iowa verbessert.</p><p>Das wirklich Verstörende aber ist, wie weit er mit solchen Äußerungen gekommen ist. Was sagt das über dieses Land aus, dass so jemand seit mehr als hundert Tagen beinahe alle Umfragen bei den Republiker anführt?</p><p>Schon seine Kandidatur begann im gleichen Stil. Als er am 16. Juni in seinem Trump-Tower bekannt gab, ins Rennen um die Präsidentschaft einzusteigen, hetzte er zwar nicht gegen Muslime, wohl aber gegen Mexikaner. Er nannte sie "Vergewaltiger" und "Kriminelle" und sprach davon, alle aus dem Land zu werfen und eine Mauer an der Grenze hochzuziehen.</p><p>Der große Aufschrei blieb damals aus, weil man ihn nicht ernst nahm. Er sei eine Eintagsfliege, hieß es von sogenannten Experten, doch sie haben sich geirrt. Die Eintagsfliege ist eine Krake, die die politische Agenda in den USA seit dem Sommer beherrscht.</p><p>Anzeige</p><p>Seine Strategie ähnelt der von Teilnehmer trivialer TV-Shows wie etwa dem Dschungelcamp: Es geht darum, zu schockieren und zu provozieren, damit weckt man Aufmerksamkeit. Das hilft, die Umfragewerte in die Höhe zu treiben. Dazu reicht Trump oft ein Telefon und sein Zeigefinger. Trump hat auf Twitter mehr Anhänger als Hillary Clinton, immerhin die ehemalige Außenministerin und First Lady. Die Kurzmitteilungen passen zu ihm, auf 140 Zeichen ist Dialektik nicht zu erwarten.</p><h3>

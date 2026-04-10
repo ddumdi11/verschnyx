@@ -1,0 +1,16 @@
+---
+title: "Donald Trump will eine Mauer bauen"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 354
+word_count: 259
+kb_match_status: "NEW"
+kb_best_sim: 0.01
+kb_best_match: "2013-10-15_Ein-Neosporakelle.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Donald Trump will eine Mauer bauen
+
+></a>Donald Trump will eine Mauer bauen</h2><p>Viele Dienstleistungsbeschäftigte sind auffällig alt: Der Mann, der im Hotel die Fahrstuhlbelegungsauslastungsetikette erklärt, ist ein schwarzer Pensionär von 71 Jahren, der drei Jobs über eine geschäftige Woche verteilt, weil seine Betriebsrente aus der Bekleidungsbranche ihm und seiner Frau nicht zum Leben reicht. Der Milliardär Donald Trump, der sich derzeit mit einer pausenlosen Bluthochdruckperformance um die Präsidentschaftskandidatur der Republikaner bewirbt, verspricht dem alten Fahrstuhlmoderator zu seinen drei jetzigen Jobs noch weitere, vorausgesetzt, Trump wird Präsident und kann die elf Millionen Einwanderer deportieren, deren Anwesenheit seiner Ansicht nach den Binnenarbeitsmarkt zum Schaden der Vereinigten Staaten belastet.</p><p>Trump will eine Mauer an der mexikanischen Grenze bauen, um für florierende Wirtschaft und mehr Sicherheit zu sorgen - in Israel, sagen seine Fans von Fox News, habe das ja auch geklappt. Bezahlen soll den Festungsbau laut Trump die mexikanische Regierung, die, so trompetet er, ihre Jobdiebe, Drogenhändler, Mörder und Vergewaltiger dauernd nach Norden abschiebe. Wenn sie nicht will, soll es Sanktionen setzen.</p><p>© AFP <a href="http://www.faz.net/aktuell/feuilleton/rassismus-in-den-usa-hat-sich-unter-obama-nicht-verbessert-13790067.html#singleImage_1_3785285"></a>Will eine Grenzmauer zu Mexiko ziehen: Präsidentschaftskandidat Donald Trump.</p><p>Auf dem Flachbildschirm zwischen den Aufzügen zeigt sich der ehemalige Vizepräsident Dick Cheney und warnt als Werbemaßnahme für sein eben erschienenes neues Buch „Exceptional" vor dem geostrategischen Abstieg seiner Nation: Wohin das führe, wenn Amerika seine Ordnungsstifterpflichten nicht mehr wahrnehme, weil Barack Obama ein Friedenstäubchen sei, sehe man ja derzeit in Europa, die hätten dort gerade ein riesiges Flüchtlingsproblem; die Gehetzten kämen aus Ländern, in denen Ruhe herrschen würde, wenn die Army, die Air Force und eine kraftvolle Einschüchterungsdiplomatie wie zu Bushs Zeiten diese Ruhe hätten herstellen dürfen.</p><h2>

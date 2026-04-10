@@ -1,0 +1,20 @@
+---
+title: "Wachsende Ehrlichkeit"
+author: "zarko maroli"
+source: "omx_validator_phase6"
+source_file: "OffeneFragenUnfertigeBilder_Vorarbeit.md"
+source_index: 466
+word_count: 243
+kb_match_status: "NEW"
+kb_best_sim: 0.00
+kb_best_match: "2014-09-07_Opistolero-et-Opistolera.md"
+integration_proposal_date: "2026-04-09"
+---
+
+# Wachsende Ehrlichkeit
+
+></a><a id="sites_page_title_55"></a>Wachsende Ehrlichkeit</h3><p><a id="sites_canvas_main_198"></a></p><p><a id="Sein_wir_mal_ehrlich__Der_Ehrlic"></a></p><table><tbody><tr><th><p><br></p><p>Sein wir mal ehrlich:<br></p><p><a href="https://www.google.de/search?client=ubuntu&channel=fs&q=johnny+cash+fantom+friona&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=gqlYVtWqCZSr8weSgRo#channel_fs_q_der_ehrliche_ist_immer_der_dumme">Der Ehrliche/die Ehrliche ist immer der/die Dumme!<br><br></a></p><p>Wenn aber alle Menschen zu 51% ehrlich-dumm, zu 49% unehrlich-schlau denken, sprechen & agieren würden,</p><p>müßte die Welt unausweichlich immer ehrlicher werden, nungut: die Menschheit</p><p>(sofern ich mich da nicht in logische Wollknäuel begebe,</p><p>mit einer solchen, vereinfachenden</p><p>Behauptung ;-))<br>-</p><p>dann müßten nicht die überwiegend ehrlichen (und dumm verkauften) Menschen</p><p>überwiegend unehrliche Menschen in der Gesamtbilanz</p><p>ständig ausgleichen<br>.<br></p><p>Oso<br>.</p><p>Ich denke darüber hinaus, daß sich individuell auch mal mehr als 51% stemmen</p><p>und die damit verbundenen Nachteile ertragen lassen</p><p>- zum Wohle aller (in der Zukunft)<br>.</p><p>Und zwar sich selbst & Anderen gegenüber.<br></p><p>Viele Menschen, die sich selbst für ehrlich halten,</p><p>sind gar nicht in der Lage, ihre eigenen Selbsttäuschungen</p><p>zu erkennen oder sich einzugestehen, daß sie ehrlicher sein könnten.</p><p>Ich meine, über diesen Punkt bin ich schon seit Längerem drüber hinweg,</p><p>ich hinterfrage mich teils ständig, ansonsten immer wieder,</p><p>wie ehrlich ich selbst wirklich bin.</p><p>Ohne mich "fertigzumachen".<br></p><p>Das ist aber nur der</p><p>allererste Schritt,</p><p>den es dafür</p><p>braucht<br>.</p><p>In</p><p>die</p><p>große</p><p>Falle zu tappen,</p><p>sich selbst für ehrlicher</p><p>als andere Menschen zu halten,</p><p>ist ein genauso großes Risiko, oder größeres,</p><p>was fim eingeht, wenn fim daran arbeitet - Obacht, obacht!</p><p>Jeder persönliche Fortschritt kann das Selbstbild zuungunsten Anderer</p><p>- zum Beispiel wegen erhebenden Gefühlen bei Einzelfortschrittchen -* erneut verzerren.</p><p><br><br><br><br><br><br></p><p>* Oder wegen dem Fokus auf Einzelaspekte, wo fim dann im direkten Vergleich möglicherweise wirklich<br></p><p>besser wegkommt als die, mit denen fim sich vergleicht - es muß iwan immer wieder zurückfokussiert werden auf das Gesamte!</p></th></tr></tbody></table><p><a id="sites_canvas_bottom_panel_193"></a></p><p><a id="COMP_page_subpages_192"></a></p><p><a id="sites_attachments_container_192"></a></p><p><a id="page_comments_192"></a></p><p><a id="COMP_page_comments_193"></a></p><p>Comments</p><p><a id="sites_comment_docos_pane_30"></a></p></th></tr></tbody></table></div>
+
+[Sign in](https://www.google.com/a/UniversalLogin?service=jotspot&continue=https://sites.google.com/site/hembelzomx/home/hembel/erklaerte-persoenliche-metaziele/eigene-meinung-beduerfnisse-wuensche-artikulieren-koennen/wachsende-ehrlichkeit)|[Recent Site Activity](#Top_of_section_0236_html)|[Report Abuse](#Top_of_section_0236_html)|[Print Page](#Top_of_section_0236_html)|Powered By [Google Sites](http://sites.google.com)
+
+<div class="joplin-table-wrapper"><table><tbody><tr><th><p><a id="sites_chrome_userheader_logo_24"></a></p><p>
