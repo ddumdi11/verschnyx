@@ -703,6 +703,10 @@ def write_tagebuch(entry: str):
 
 def _write_correction(correction: str):
     """Schreibt eine Selbstkorrektur in corrections.md."""
+    # Patch v1.2.1: Defense-in-depth -- leere Korrekturen nicht schreiben
+    if not correction or len(correction.strip()) < 10:
+        print(f"[korrektur] Leere Korrektur uebersprungen ({len(correction or '')} Zeichen)")
+        return
     MEMORY_DIR.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
     entry = f"\n\n### {timestamp}\n\n{correction}\n"
@@ -895,6 +899,10 @@ def _gruebel_widerspruch_check():
     try:
         # Patch v1.1: Widerspruchs-Check -> Mercury (Tier 1, Routine)
         result = query_mercury(prompt, max_tokens=500)
+        # Patch v1.2.1: Leere/zu kurze Antworten sind kein Widerspruch
+        if not result or len(result.strip()) < 20:
+            print("[gruebeln] Widerspruchs-Check: Keine verwertbare Antwort (uebersprungen)")
+            return
         if "KEINE WIDERSPRUECHE" not in result.upper():
             print(f"[gruebeln] Widerspruch gefunden!")
             _write_correction(result)
