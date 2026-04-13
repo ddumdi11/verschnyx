@@ -1,5 +1,19 @@
 # Changelog -- Verschnyx Erknyxowitsch Bot
 
+## v2.6 (2026-04-13) -- Gruebeln Anti-Repeat (Patch v1.4)
+
+### Bugfix: Widerspruchs-Check Endloswiederholung
+- **Problem**: Sonnet fand denselben Widerspruch in jedem Gruebel-Zyklus (18/18 Wiederholungen)
+- **Ursache**: Identischer Prompt (gleiche Chat-Historie + Identity), keine Rueckkopplung der Korrekturen
+- **Fix**: Dreilagiger Schutz gegen Wiederholungen:
+  1. **Prompt-Hash**: Identischer Input wird nicht erneut geprueft (MD5 auf Nachrichtentext)
+  2. **Korrektur-Kontext**: Bestehende Korrekturen werden als "BEREITS ERKANNT" in den Prompt eingefuegt
+  3. **Duplikat-Pruefung**: Shingle-basierte Jaccard-Aehnlichkeit (>=40%) vor dem Schreiben
+- **Neue Funktion**: `_is_duplicate_correction()` -- 3-Wort-Shingle-Vergleich gegen alle aktiven Korrekturen
+- **Import**: `hashlib` hinzugefuegt
+
+---
+
 ## v2.5 (2026-04-10) -- KB-Deduplikation + Git
 
 ### Knowledge-Base Bereinigung
