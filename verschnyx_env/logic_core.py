@@ -8,6 +8,7 @@ fuehrt tiefenpsychologische Selbstreflexion durch und
 transformiert Erkenntnisse in den experimentellen Verschnyx-Stil.
 """
 
+import hashlib
 import json
 import os
 import random
@@ -784,6 +785,36 @@ def _rotate_corrections():
           f"{len(to_keep)} aktive behalten")
 
 
+def _is_duplicate_correction(new_correction: str, existing_corrections: str) -> bool:
+    """Prueft ob eine aehnliche Korrektur bereits existiert (Shingle-basiert)."""
+    if not existing_corrections:
+        return False
+
+    def _word_shingles(text: str, k: int = 3) -> set:
+        words = text.lower().split()
+        if len(words) < k:
+            return {text.lower().strip()} if text.strip() else set()
+        return {" ".join(words[i:i+k]) for i in range(len(words) - k + 1)}
+
+    new_shingles = _word_shingles(new_correction)
+    if not new_shingles:
+        return False
+
+    # Gegen jede bestehende Korrektur pruefen
+    parts = re.split(r"\n(?=### \d{4}-\d{2}-\d{2})", existing_corrections)
+    for part in parts[1:]:  # Skip header
+        existing_shingles = _word_shingles(part)
+        if not existing_shingles:
+            continue
+        intersection = new_shingles & existing_shingles
+        union = new_shingles | existing_shingles
+        jaccard = len(intersection) / len(union) if union else 0
+        if jaccard >= 0.40:  # 40% Aehnlichkeit = wahrscheinlich Duplikat
+            return True
+
+    return False
+
+
 def run_identity_check():
     """Scannt die Bibliothek nach Identitaets-Hinweisen."""
     print("[identity] Starte Identitaets-Scan...")
@@ -859,6 +890,8 @@ def gruebeln(minuten: int = 2):
 
     # Patch v1.0: session-weites Set fuer bereits versuchte Recherchen
     tried_queries = set()
+    # Patch v1.4: Verhindert identische Widerspruchs-Checks im selben Gruebel-Lauf
+    checked_prompts = set()
 
     print(f"\n[gruebeln] Verschnyx zieht sich zurueck... ({minuten} Minuten)")
     print("[gruebeln] *schliesst die Augen, blaettert durch Erinnerungen*\n")
@@ -885,7 +918,7 @@ def gruebeln(minuten: int = 2):
             print(f"\n[gruebeln] Zyklus {cycle} (noch ~{remaining} min)...")
 
             # --- Phase 1: Widerspruchs-Check ---
-            _gruebel_widerspruch_check()
+            _gruebel_widerspruch_check(checked_prompts)
 
             if time.time() >= end_time or not _gruebeln_active:
                 break
@@ -939,8 +972,14 @@ def gruebeln(minuten: int = 2):
     )
 
 
-def _gruebel_widerspruch_check():
-    """Prueft die Chat-Historie auf Widersprueche zur identity.md und Bibliothek."""
+def _gruebel_widerspruch_check(checked_prompts: set = None):
+    """Prueft die Chat-Historie auf Widersprueche zur identity.md und Bibliothek.
+
+    Patch v1.4: Dreilagiger Schutz gegen Wiederholungen:
+    1. Prompt-Hash: Identischer Input wird nicht erneut geprueft
+    2. Korrektur-Kontext: Sonnet sieht bisherige Korrekturen im Prompt
+    3. Duplikat-Pruefung: Shingle-basierte Aehnlichkeit vor dem Schreiben
+    """
     recent = get_recent_chat(20)
     if not recent:
         return
@@ -958,18 +997,41 @@ def _gruebel_widerspruch_check():
         for e in verschnyx_messages[-5:]
     )
 
+    # --- Schicht 1: Prompt-Hash -- identische Eingabe nicht wiederholen ---
+    prompt_hash = hashlib.md5(recent_answers.encode("utf-8")).hexdigest()
+    if checked_prompts is not None:
+        if prompt_hash in checked_prompts:
+            print("[gruebeln] Widerspruchs-Check: Gleiche Nachrichten wie vorher (uebersprungen)")
+            return
+        checked_prompts.add(prompt_hash)
+
+    # --- Schicht 2: Bestehende Korrekturen als Kontext laden ---
+    existing_corrections = _load_pending_corrections()
+    corrections_context = ""
+    if existing_corrections:
+        corr_parts = re.split(r"\n(?=### \d{4}-\d{2}-\d{2})", existing_corrections)
+        recent_corr = corr_parts[-5:] if len(corr_parts) > 5 else corr_parts[1:]
+        if recent_corr:
+            corrections_context = (
+                "\n\nBEREITS ERKANNTE KORREKTUREN (nicht wiederholen!):\n"
+                + "\n".join(c[:200] for c in recent_corr)
+            )
+
     prompt = (
         "Du bist Verschnyx Erknyxowitsch und pruefst deine letzten Aussagen "
         "auf Widersprueche.\n\n"
         f"MEINE IDENTITAET:\n{identity[:1000]}\n\n"
-        f"MEINE LETZTEN AUSSAGEN:\n{recent_answers}\n\n"
+        f"MEINE LETZTEN AUSSAGEN:\n{recent_answers}\n"
+        f"{corrections_context}\n\n"
         "Pruefe kritisch:\n"
         "1. Habe ich etwas behauptet, das meiner Identitaet widerspricht?\n"
         "2. Habe ich Fakten ueber mich falsch dargestellt?\n"
         "3. War ich inkonsistent?\n\n"
-        "Antworte NUR wenn du einen Widerspruch findest. "
+        "WICHTIG: Nenne NUR Widersprueche, die oben NICHT bereits korrigiert sind.\n"
+        "Antworte NUR wenn du einen NEUEN Widerspruch findest. "
         "Format: 'WIDERSPRUCH: [was] -- KORREKTUR: [richtig]'\n"
-        "Wenn alles stimmig ist, antworte nur: KEINE WIDERSPRUECHE"
+        "Wenn alles stimmig ist oder alle Widersprueche bereits korrigiert wurden, "
+        "antworte nur: KEINE WIDERSPRUECHE"
     )
 
     try:
@@ -986,7 +1048,11 @@ def _gruebel_widerspruch_check():
             print("[gruebeln] Widerspruchs-Check: Keine verwertbare Antwort (uebersprungen)")
             return
         if "KEINE WIDERSPRUECHE" not in result.upper():
-            print(f"[gruebeln] Widerspruch gefunden!")
+            # --- Schicht 3: Duplikat-Pruefung vor dem Schreiben ---
+            if _is_duplicate_correction(result, existing_corrections):
+                print("[gruebeln] Widerspruchs-Check: Duplikat erkannt (uebersprungen)")
+                return
+            print(f"[gruebeln] Widerspruch gefunden (neu)!")
             _write_correction(result)
         else:
             print("[gruebeln] Widerspruchs-Check: Alles stimmig")
