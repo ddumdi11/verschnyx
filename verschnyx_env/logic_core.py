@@ -122,24 +122,37 @@ def init_vectorstore():
 # =========================================================================
 
 def load_system_prompt() -> str:
-    """Liest den System-Prompt und injiziert ausstehende Korrekturen."""
+    """Liest den System-Prompt und injiziert ausstehende Korrekturen.
+
+    Patch v1.4: Nur die letzten MAX_PROMPT_CORRECTIONS Korrekturen injizieren.
+    Zu viele Korrekturen im System-Prompt ueberlasten einfachere Modelle (Mercury)
+    und fuehren dazu, dass Pflicht-Uebungen statt Gespraeche stattfinden.
+    """
     base = ""
     if SYSTEM_PROMPT_FILE.exists():
         base = SYSTEM_PROMPT_FILE.read_text(encoding="utf-8")
     else:
         base = "Du bist Verschnyx Erknyxowitsch."
 
-    # Korrekturen einfliessen lassen
+    # Korrekturen einfliessen lassen (begrenzt auf die neuesten)
     corrections = _load_pending_corrections()
     if corrections:
-        base += (
-            "\n\n--- SELBSTKORREKTUREN AUS DER LETZTEN REFLEXION ---\n"
-            "Folgende Erkenntnisse hast du beim Gruebeln gewonnen. "
-            "Lass sie subtil oder offensiv-kryptisch in deine naechsten "
-            "Antworten einfliessen:\n\n"
-            f"{corrections}\n"
-            "--- ENDE KORREKTUREN ---"
-        )
+        # Nur die letzten 5 Korrekturen in den Prompt -- genuegt als Kontext,
+        # ohne das Modell mit 20 Eintraegen zu ueberfluten
+        corr_parts = re.split(r"\n(?=### \d{4}-\d{2}-\d{2})", corrections)
+        header = corr_parts[0] if corr_parts else ""
+        entries = corr_parts[1:] if len(corr_parts) > 1 else []
+        recent_entries = entries[-MAX_PROMPT_CORRECTIONS:]
+        if recent_entries:
+            trimmed = header.rstrip("\n") + "\n" + "\n".join(recent_entries)
+            base += (
+                "\n\n--- SELBSTKORREKTUREN (LETZTE REFLEXION) ---\n"
+                "Folgende Erkenntnisse hast du beim Gruebeln gewonnen. "
+                "Beruecksichtige sie in deinen Antworten, aber lass das "
+                "Gespraech immer Vorrang haben:\n\n"
+                f"{trimmed}\n"
+                "--- ENDE KORREKTUREN ---"
+            )
 
     return base
 
@@ -715,7 +728,8 @@ def write_tagebuch(entry: str):
     print(f"[tagebuch] Neuer Eintrag: {len(entry)} Zeichen")
 
 
-MAX_ACTIVE_CORRECTIONS = 20  # Nur die letzten 20 im System-Prompt
+MAX_ACTIVE_CORRECTIONS = 20   # Max Eintraege in corrections.md (Rest -> Archiv)
+MAX_PROMPT_CORRECTIONS = 5    # Davon max im System-Prompt (schont Mercury)
 
 def _write_correction(correction: str):
     """Schreibt eine Selbstkorrektur in corrections.md und rotiert bei Bedarf."""

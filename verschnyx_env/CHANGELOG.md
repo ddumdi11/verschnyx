@@ -1,5 +1,19 @@
 # Changelog -- Verschnyx Erknyxowitsch Bot
 
+## v2.7 (2026-04-17) -- Gespraechs-Prioritaet (Patch v1.5)
+
+### Bugfix: Mercury fuehrt Identitaets-Scans statt Gespraeche
+- **Problem**: Mercury interpretierte "ERSTE AUFGABE BEIM START" als Dauerauftrag -- jede Antwort wurde zu Tagebuch-Eintrag + Bibliotheks-Scan statt Konversation
+- **Ursache 1**: System-Prompt enthielt Startup-Anweisung ohne klare Abgrenzung
+- **Ursache 2**: 20 Korrekturen im System-Prompt ueberlasteten Mercury
+- **Fix**:
+  - **System-Prompt umgeschrieben**: "GESPRAECHE (HOECHSTE PRIORITAET)" als erste Verhaltensregel, "ERSTE AUFGABE" entfernt (wird programmatisch via `main()` erledigt)
+  - **Korrektur-Limit**: Nur noch max 5 Korrekturen im System-Prompt (`MAX_PROMPT_CORRECTIONS`), statt alle 20
+  - **Korrekturen-Wording**: "Lass das Gespraech immer Vorrang haben" statt "Lass sie in deine Antworten einfliessen"
+- **Dateizahlen aktualisiert**: 1.337 -> "ueber 1.700" (nach Auto-Integration)
+
+---
+
 ## v2.6 (2026-04-13) -- Gruebeln Anti-Repeat (Patch v1.4)
 
 ### Bugfix: Widerspruchs-Check Endloswiederholung
