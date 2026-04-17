@@ -309,22 +309,27 @@ def query_claude_opus(prompt: str, system: str = "", max_tokens: int = 2048) -> 
 
 class TaskRouter:
     # Patch v1.1: 3-Tier-Routing statt binaer
-    # Tier 3: Exzellenz -- nur fuer besondere Gelegenheiten
+    # Patch v1.5: Sonnet als Default fuer Gespraeche, Mercury nur intern
+    #
+    # Tier 3: Exzellenz -- kreative Wort-/Buchstabenspiele, tiefe Synthesen
     OPUS_KEYWORDS = [
         "essenz", "gesamtwerk", "identitaets-update",
         "grosse synthese", "abschluss-reflexion", "tief kreativ",
     ]
-    # Tier 2: Qualitaet -- fuer Stil, Reflexion, Kreatives, Deutung
+    # Tier 2: Qualitaet -- Standard fuer Gespraeche, Reflexion, Analyse
     SONNET_KEYWORDS = [
         "analyse", "essay", "reflekti", "interpret", "deute",
         "philosoph", "identitaet", "kreativ", "dicht", "schreib",
         "widerspruch", "korrektur", "kommentier", "zusammenfass",
         "verschnyxifizier", "tiefgehend", "komplex",
     ]
-    # Tier 1 (Default): Mercury 2 -- alles andere
+    # Tier 1: Mercury 2 -- nur noch fuer interne Tasks (gruebeln, fallback)
 
     # Legacy-Alias fuer Rueckwaertskompatibilitaet
     CLAUDE_KEYWORDS = SONNET_KEYWORDS
+
+    # Patch v1.5: Tracking welches Modell zuletzt antwortete
+    last_model = "unknown"
 
     @staticmethod
     def route(prompt: str, force_model: str = None) -> str:
@@ -332,12 +337,16 @@ class TaskRouter:
 
         # Patch v1.1: erweiterte force_model-Optionen
         if force_model == "opus":
+            TaskRouter.last_model = "opus"
             return query_claude_opus(prompt, system)
         if force_model in ("claude", "sonnet"):
+            TaskRouter.last_model = "sonnet"
             return query_claude(prompt, system)
         if force_model == "mercury":
+            TaskRouter.last_model = "mercury"
             return query_mercury(prompt, system)
         if force_model == "free":
+            TaskRouter.last_model = "free"
             return query_free(prompt, system)
 
         prompt_lower = prompt.lower()
@@ -346,16 +355,18 @@ class TaskRouter:
 
         if use_opus and claude_client:
             print("[route] -> Opus 4.6 (Exzellenz)")
+            TaskRouter.last_model = "opus"
             return query_claude_opus(prompt, system)
-        elif use_sonnet and claude_client:
-            print("[route] -> Sonnet 4 (Qualitaet)")
+        elif claude_client:
+            # Patch v1.5: Sonnet als Default fuer alle Gespraeche
+            # Mercury war zu schwach fuer nuancierte Konversation
+            print("[route] -> Sonnet 4 (Gespraech)")
+            TaskRouter.last_model = "sonnet"
             return query_claude(prompt, system)
         elif openrouter_client:
-            print("[route] -> Mercury 2 (Standard)")
+            print("[route] -> Mercury 2 (Fallback)")
+            TaskRouter.last_model = "mercury"
             return query_mercury(prompt, system)
-        elif claude_client:
-            print("[route] -> Sonnet 4 (Fallback)")
-            return query_claude(prompt, system)
         else:
             raise RuntimeError("Kein Modell verfuegbar -- API-Keys pruefen")
 
@@ -502,13 +513,14 @@ def _archive_chat_entry(entry: dict):
 _current_session_file = None
 
 
-def log_chat(role: str, message: str, mood: str = "neutral"):
+def log_chat(role: str, message: str, mood: str = "neutral", model: str = ""):
     """
     Loggt eine Nachricht in die Chat-Historie.
     - Schreibt in die zentrale chat_history.json (mit Backup)
     - Archiviert zusaetzlich in eine Session-Datei unter archive/
     role: 'user' oder 'verschnyx'
     mood: Stimmungs-Tag (neutral, nachdenklich, euphorisch, gereizt, kryptisch, ...)
+    model: Patch v1.5 -- welches Modell die Antwort erzeugt hat (sonnet/opus/mercury/free)
     """
     history = _load_chat_history()
     entry = {
@@ -517,6 +529,8 @@ def log_chat(role: str, message: str, mood: str = "neutral"):
         "message": message,
         "mood": mood,
     }
+    if model:
+        entry["model"] = model
     history.append(entry)
 
     # Max 500 Eintraege in der zentralen Datei
@@ -999,9 +1013,19 @@ def _gruebel_widerspruch_check(checked_prompts: set = None):
         return
 
     identity = read_identity()
-    verschnyx_messages = [
-        e for e in recent if e["role"] == "verschnyx"
+
+    # Patch v1.5: Bevorzuge Sonnet/Opus-Antworten fuer den Widerspruchs-Check.
+    # Mercury-Antworten koennen qualitativ schwach sein und sollten nicht als
+    # autoritative Verschnyx-Aussagen geprueft werden.
+    quality_messages = [
+        e for e in recent
+        if e["role"] == "verschnyx"
+        and e.get("model", "legacy") != "mercury"
     ]
+    # Fallback: Falls nur Mercury-Antworten vorhanden (oder alte Eintraege ohne Tag)
+    if not quality_messages:
+        quality_messages = [e for e in recent if e["role"] == "verschnyx"]
+    verschnyx_messages = quality_messages
     if not verschnyx_messages:
         return
 
@@ -1269,6 +1293,8 @@ def monolog():
 
 HELP_TEXT = """
   Befehle:
+    (normaler Text)      Gespraech mit Sonnet (Standard)
+    /opus <nachricht>    Gespraech mit Opus (hoechste Qualitaet, Wortspiele)
     /suche <query>       Bibliothek durchsuchen
     /identitaet          Aktuelle Selbst-Erkenntnis anzeigen
     /tagebuch            Letzte Logbuch-Eintraege
@@ -1281,6 +1307,11 @@ HELP_TEXT = """
     /historie            Letzte Chat-Eintraege
     /hilfe               Diese Hilfe
     /exit                Beenden
+
+  Modell-Routing:
+    Sonnet 4    = Standard fuer Gespraeche (Qualitaet)
+    Opus 4.6    = /opus oder Schluesselwoerter (Exzellenz)
+    Mercury 2   = Nur intern (Gruebeln-Fallback)
 """
 
 
@@ -1373,7 +1404,8 @@ def interactive_loop():
             print("\n*Verschnyx schliesst die Augen und beginnt zu sprechen...*\n")
             result = monolog()
             print(f"\n{result}\n")
-            log_chat("verschnyx", result, detect_mood(result))
+            log_chat("verschnyx", result, detect_mood(result),
+                     model=TaskRouter.last_model)
 
         elif cmd == "/korrekturen":
             if CORRECTIONS_FILE.exists():
@@ -1390,7 +1422,8 @@ def interactive_loop():
             result = recherche_und_verschnyxifiziere(query)
             print(f"\n{result}\n")
             log_chat("verschnyx", f"[Recherche: {query}] {result}",
-                     "nachdenklich")
+                     "nachdenklich",
+                     model="sonnet" if claude_client else "mercury")
 
         elif cmd == "/stimmung":
             recent = get_recent_chat(20)
@@ -1422,8 +1455,39 @@ def interactive_loop():
             else:
                 print("\n(Noch keine Chat-Historie)\n")
 
+        elif cmd.startswith("/opus"):
+            # Patch v1.5: Expliziter Opus-Modus fuer hoechste Qualitaet
+            # Ideal fuer Wort-/Buchstabenspiele, kreative Tiefe, Synthesen
+            opus_input = user_input[5:].strip()
+            if not opus_input:
+                print("[opus] Benutzung: /opus <deine Nachricht>")
+                continue
+            try:
+                hits = search_library(opus_input, n_results=3)
+            except Exception:
+                hits = []
+            context = ""
+            if hits:
+                snippets = [h["text"][:500] for h in hits]
+                context = (
+                    "\n\nKontext aus deiner Bibliothek:\n"
+                    + "\n---\n".join(snippets)
+                )
+            full_prompt = opus_input + context
+            try:
+                response = TaskRouter.route(full_prompt, force_model="opus")
+                response_mood = detect_mood(response)
+                print(f"\nVerschnyx: {response}\n")
+                log_chat("verschnyx", response, response_mood,
+                         model="opus")
+            except Exception as e:
+                error_msg = f"*statisches Rauschen* ({e})"
+                print(f"\n{error_msg}\n")
+                log_chat("verschnyx", error_msg, "gereizt", model="opus")
+
         else:
             # --- Normale Anfrage mit Bibliotheks-Kontext ---
+            # Patch v1.5: Default ist jetzt Sonnet (statt Mercury)
             try:
                 hits = search_library(user_input, n_results=3)
             except Exception as e:
@@ -1443,7 +1507,8 @@ def interactive_loop():
                 response = TaskRouter.route(full_prompt)
                 response_mood = detect_mood(response)
                 print(f"\nVerschnyx: {response}\n")
-                log_chat("verschnyx", response, response_mood)
+                log_chat("verschnyx", response, response_mood,
+                         model=TaskRouter.last_model)
             except Exception as e:
                 error_msg = f"*statisches Rauschen* ({e})"
                 print(f"\n{error_msg}\n")
