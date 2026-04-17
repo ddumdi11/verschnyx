@@ -1,5 +1,17 @@
 # Changelog -- Verschnyx Erknyxowitsch Bot
 
+## v2.8 (2026-04-17) -- Sonnet als Gespraechs-Default + /opus (Patch v1.5)
+
+### Routing-Upgrade: Konversation auf Sonnet-Niveau
+- **Sonnet 4 als Default**: Alle Gespraeche laufen jetzt ueber Sonnet (statt Mercury)
+- **`/opus` Befehl**: Expliziter Opus-Modus fuer hoechste Qualitaet (Wort-/Buchstabenspiele, kreative Synthesen)
+- **Mercury nur noch intern**: Gruebeln-Fallback, keine Gespraeche mehr
+- **Model-Tracking**: Jeder Chat-Eintrag bekommt ein `model`-Feld (sonnet/opus/mercury/free)
+- **Widerspruchs-Check gefiltert**: `_gruebel_widerspruch_check()` bevorzugt Sonnet/Opus-Antworten, ueberspringt Mercury-Qualitaet
+- **Hilfetext erweitert**: Modell-Routing-Uebersicht in /hilfe
+
+---
+
 ## v2.7 (2026-04-17) -- Gespraechs-Prioritaet (Patch v1.5)
 
 ### Bugfix: Mercury fuehrt Identitaets-Scans statt Gespraeche
